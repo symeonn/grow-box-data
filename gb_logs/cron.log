@@ -494,3 +494,19 @@
 06-23-2020 15:30   : 
 06-23-2020 15:30   : sent 84 bytes  received 16 bytes  66.67 bytes/sec
 06-23-2020 15:30   : total size is 5.76K  speedup is 57.65
+06-23-2020 15:45   : SYNC images:
+06-23-2020 15:45   : SYNC logs:
+06-23-2020 15:45   : sending incremental file list
+06-23-2020 15:45   : sending incremental file list
+06-23-2020 15:45   : gb_logs/cron.log
+06-23-2020 15:45   : 
+06-23-2020 15:45   : sent 418 bytes  received 16 bytes  96.44 bytes/sec
+06-23-2020 15:45   : total size is 14.50M  speedup is 33,416.21
+06-23-2020 15:45   : SYNC CSV:
+06-23-2020 15:45   : 
+06-23-2020 15:45   : sent 1.18K bytes  received 237 bytes  314.00 bytes/sec
+06-23-2020 15:45   : total size is 289.32K  speedup is 204.76
+06-23-2020 15:45   : sending incremental file list
+06-23-2020 15:45   : 
+06-23-2020 15:45   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+06-23-2020 15:45   : total size is 5.76K  speedup is 55.43
