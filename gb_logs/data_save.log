@@ -17,3 +17,109 @@
 06-23-2020 11:19   : Data saving done.
 06-23-2020 12:19   : Getting sensors readings...
 06-23-2020 12:19   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 16:18   : init data save
+06-23-2020 16:18   : Getting sensors readings...
+06-23-2020 16:18   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 16:19   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 16:20   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 16:20   : VOC: 2.4 :: CO2: 403.0 
+06-23-2020 16:21   : Humidity: 73.6666666667 :: Temperature: 20.0 
+06-23-2020 17:33   : Water temperature: 19.94 
+06-23-2020 17:33   : Writing data to CSV...
+06-23-2020 17:33   : Data saving done.
+06-23-2020 18:33   : Getting sensors readings...
+06-23-2020 18:33   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 18:34   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 18:34   : VOC: 0.1 :: CO2: 407.9 
+06-23-2020 18:35   : Humidity: 64.6666666667 :: Temperature: 22.0 
+06-23-2020 18:39   : Water temperature: 20.00 
+06-23-2020 18:39   : Writing data to CSV...
+06-23-2020 18:39   : Data saving done.
+06-23-2020 19:39   : Getting sensors readings...
+06-23-2020 19:39   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 19:39   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 19:40   : VOC: 0.1 :: CO2: 406.0 
+06-23-2020 19:41   : Humidity: 62.6666666667 :: Temperature: 22.0 
+06-23-2020 19:44   : Water temperature: 20.06 
+06-23-2020 19:44   : Writing data to CSV...
+06-23-2020 19:44   : Data saving done.
+06-23-2020 20:44   : Getting sensors readings...
+06-23-2020 20:44   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 20:44   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-23-2020 20:45   : VOC: 2.2 :: CO2: 406.6 
+06-23-2020 20:45   : Humidity: 64.0 :: Temperature: 22.0 
+06-23-2020 20:49   : Water temperature: 20.12 
+06-23-2020 20:49   : Writing data to CSV...
+06-23-2020 20:49   : Data saving done.
+06-23-2020 21:49   : Getting sensors readings...
+06-23-2020 21:49   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 01:08   : init data save
+06-24-2020 10:08   : Getting sensors readings...
+06-24-2020 10:08   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 10:08   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 10:09   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 10:10   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 10:10   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 10:11   : VOC: 0.4 :: CO2: 404.5 
+06-24-2020 10:11   : Humidity: 66.6666666667 :: Temperature: 22.0 
+06-24-2020 11:08   : Water temperature: 20.56 
+06-24-2020 11:08   : Writing data to CSV...
+06-24-2020 11:08   : Data saving done.
+06-24-2020 12:08   : Getting sensors readings...
+06-24-2020 12:08   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 12:09   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 12:09   : VOC: 1.0 :: CO2: 408.1 
+06-24-2020 12:10   : Humidity: 71.0 :: Temperature: 21.0 
+06-24-2020 14:04   : Water temperature: 20.37 
+06-24-2020 14:04   : Writing data to CSV...
+06-24-2020 14:04   : Data saving done.
+06-24-2020 15:04   : Getting sensors readings...
+06-24-2020 15:04   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 15:04   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 15:05   : VOC: 0.4 :: CO2: 406.0 
+06-24-2020 15:05   : Humidity: 66.0 :: Temperature: 21.0 
+06-24-2020 15:16   : Water temperature: 20.31 
+06-24-2020 15:16   : Writing data to CSV...
+06-24-2020 15:16   : Data saving done.
+06-24-2020 16:16   : Getting sensors readings...
+06-24-2020 16:16   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 16:17   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 16:17   : VOC: 0.3 :: CO2: 420.2 
+06-24-2020 16:18   : Humidity: 66.0 :: Temperature: 22.0 
+06-24-2020 16:23   : Water temperature: 20.25 
+06-24-2020 16:23   : Writing data to CSV...
+06-24-2020 16:23   : Data saving done.
+06-24-2020 17:23   : Getting sensors readings...
+06-24-2020 17:23   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 17:23   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 17:24   : VOC: 0.3 :: CO2: 410.0 
+06-24-2020 17:25   : Humidity: nan :: Temperature: nan 
+06-24-2020 17:28   : Water temperature: 20.25 
+06-24-2020 17:28   : Writing data to CSV...
+06-24-2020 17:28   : Data saving done.
+06-24-2020 18:28   : Getting sensors readings...
+06-24-2020 18:28   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 18:29   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 18:30   : VOC: 0.3 :: CO2: 408.0 
+06-24-2020 18:30   : Humidity: 63.3333333333 :: Temperature: 22.0 
+06-24-2020 20:49   : Water temperature: 20.37 
+06-24-2020 20:49   : Writing data to CSV...
+06-24-2020 20:49   : Data saving done.
+06-24-2020 21:49   : Getting sensors readings...
+06-24-2020 21:49   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 21:49   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-24-2020 21:50   : VOC: 1.6 :: CO2: 409.6 
+06-24-2020 21:50   : Humidity: 64.0 :: Temperature: 22.0 
+06-24-2020 22:08   : Water temperature: 20.44 
+06-24-2020 22:08   : Writing data to CSV...
+06-24-2020 22:08   : Data saving done.
+06-25-2020 01:08   : init data save
+06-25-2020 10:01   : init data save
+06-25-2020 10:01   : Getting sensors readings...
+06-25-2020 10:01   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-25-2020 10:01   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-25-2020 10:02   : VOC: 0.2 :: CO2: 409.7 
+06-25-2020 10:02   : Humidity: 62.3333333333 :: Temperature: 23.0 
+06-25-2020 10:06   : Water temperature: 20.62 
+06-25-2020 10:06   : Writing data to CSV...
+06-25-2020 10:06   : Data saving done.
