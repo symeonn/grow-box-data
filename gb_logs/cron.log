@@ -5376,3 +5376,7 @@
 06-29-2020 11:00   : 
 06-29-2020 11:00   : sent 1.34K bytes  received 2.78K bytes  916.67 bytes/sec
 06-29-2020 11:00   : total size is 585.60K  speedup is 141.96
+06-29-2020 11:00   : sending incremental file list
+06-29-2020 11:00   : 
+06-29-2020 11:00   : sent 84 bytes  received 16 bytes  22.22 bytes/sec
+06-29-2020 11:00   : total size is 8.36K  speedup is 83.61
