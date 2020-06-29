@@ -5762,3 +5762,17 @@
 06-29-2020 15:33   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.6, co2=411.3, humidity=72.0, temperature=22.0, water_temperature=21.25, ph=6.66, ec=0.7, datetime='2020-06-29_15:30')
 06-29-2020 15:35   : SYNC CSV:
 06-29-2020 15:40   : SYNC current data:
+06-29-2020 15:40   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.6, co2=411.3, humidity=72.0, temperature=22.0, water_temperature=21.25, ph=6.66, ec=0.7, datetime='2020-06-29_15:40')
+06-29-2020 15:45   : SYNC logs:
+06-29-2020 15:45   : SYNC images:
+06-29-2020 15:45   : SYNC CSV:
+06-29-2020 15:46   : 
+06-29-2020 15:46   : sent 904.42K bytes  received 39 bytes  923.39 bytes/sec
+06-29-2020 15:46   : total size is 19.15M  speedup is 21.17
+06-29-2020 15:46   : SYNC CSV:
+06-29-2020 15:47   : sending incremental file list
+06-29-2020 15:47   : gb_csv/grow_data.csv
+06-29-2020 15:47   : 
+06-29-2020 15:47   : sent 179 bytes  received 113 bytes  11.45 bytes/sec
+06-29-2020 15:47   : total size is 8.56K  speedup is 29.30
+06-29-2020 15:50   : SYNC current data:
