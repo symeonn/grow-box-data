@@ -6119,3 +6119,7 @@
 06-29-2020 20:00   : total size is 635.86K  speedup is 165.29
 06-29-2020 20:00   : sending incremental file list
 06-29-2020 20:00   : 
+06-29-2020 20:00   : sent 88 bytes  received 16 bytes  29.71 bytes/sec
+06-29-2020 20:00   : total size is 8.56K  speedup is 82.28
+06-29-2020 20:00   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.6, co2=411.3, humidity=72.0, temperature=22.0, water_temperature=21.25, ph=6.66, ec=0.7, datetime='2020-06-29_20:00')
+06-29-2020 20:10   : SYNC current data:
