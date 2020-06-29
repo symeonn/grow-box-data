@@ -5257,3 +5257,107 @@
 06-29-2020 09:15   : 
 06-29-2020 09:15   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
 06-29-2020 09:15   : total size is 8.36K  speedup is 80.39
+06-29-2020 09:30   : SYNC logs:
+06-29-2020 09:30   : SYNC images:
+06-29-2020 09:30   : sending incremental file list
+06-29-2020 09:30   : sending incremental file list
+06-29-2020 09:30   : gb_logs/air_pump_control.log
+06-29-2020 09:30   : gb_logs/cron.log
+06-29-2020 09:30   : gb_logs/temperature_control.log
+06-29-2020 09:30   : 
+06-29-2020 09:30   : sent 528 bytes  received 16 bytes  217.60 bytes/sec
+06-29-2020 09:30   : total size is 18.25M  speedup is 33,540.05
+06-29-2020 09:30   : SYNC CSV:
+06-29-2020 09:30   : 
+06-29-2020 09:30   : sent 1.17K bytes  received 2.55K bytes  1.49K bytes/sec
+06-29-2020 09:30   : total size is 579.55K  speedup is 155.67
+06-29-2020 09:30   : sending incremental file list
+06-29-2020 09:30   : 
+06-29-2020 09:30   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+06-29-2020 09:30   : total size is 8.36K  speedup is 80.39
+06-29-2020 09:45   : SYNC logs:
+06-29-2020 09:45   : SYNC images:
+06-29-2020 09:45   : sending incremental file list
+06-29-2020 09:45   : sending incremental file list
+06-29-2020 09:45   : gb_logs/air_pump_control.log
+06-29-2020 09:45   : gb_logs/cron.log
+06-29-2020 09:45   : gb_logs/temperature_control.log
+06-29-2020 09:45   : 
+06-29-2020 09:45   : sent 528 bytes  received 16 bytes  217.60 bytes/sec
+06-29-2020 09:45   : total size is 18.25M  speedup is 33,540.05
+06-29-2020 09:45   : SYNC CSV:
+06-29-2020 09:45   : 
+06-29-2020 09:45   : sent 1.20K bytes  received 2.56K bytes  1.50K bytes/sec
+06-29-2020 09:45   : total size is 580.52K  speedup is 154.76
+06-29-2020 09:45   : sending incremental file list
+06-29-2020 09:45   : 
+06-29-2020 09:45   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+06-29-2020 09:45   : total size is 8.36K  speedup is 80.39
+06-29-2020 10:00   : SYNC logs:
+06-29-2020 10:00   : SYNC images:
+06-29-2020 10:00   : sending incremental file list
+06-29-2020 10:00   : sending incremental file list
+06-29-2020 10:00   : gb_logs/cron.log
+06-29-2020 10:00   : gb_logs/temperature_control.log
+06-29-2020 10:00   : 
+06-29-2020 10:00   : sent 528 bytes  received 16 bytes  217.60 bytes/sec
+06-29-2020 10:00   : total size is 18.25M  speedup is 33,540.05
+06-29-2020 10:00   : SYNC CSV:
+06-29-2020 10:00   : 
+06-29-2020 10:00   : sent 1.14K bytes  received 2.39K bytes  1.41K bytes/sec
+06-29-2020 10:00   : total size is 581.54K  speedup is 165.12
+06-29-2020 10:00   : sending incremental file list
+06-29-2020 10:00   : 
+06-29-2020 10:00   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+06-29-2020 10:00   : total size is 8.36K  speedup is 83.61
+06-29-2020 10:15   : SYNC images:
+06-29-2020 10:15   : SYNC logs:
+06-29-2020 10:15   : sending incremental file list
+06-29-2020 10:15   : sending incremental file list
+06-29-2020 10:15   : gb_logs/air_pump_control.log
+06-29-2020 10:15   : gb_logs/cron.log
+06-29-2020 10:15   : gb_logs/temperature_control.log
+06-29-2020 10:15   : 
+06-29-2020 10:15   : sent 528 bytes  received 16 bytes  217.60 bytes/sec
+06-29-2020 10:15   : total size is 18.25M  speedup is 33,540.05
+06-29-2020 10:15   : SYNC CSV:
+06-29-2020 10:15   : 
+06-29-2020 10:15   : sent 1.19K bytes  received 2.57K bytes  1.51K bytes/sec
+06-29-2020 10:15   : total size is 582.55K  speedup is 154.69
+06-29-2020 10:15   : sending incremental file list
+06-29-2020 10:15   : 
+06-29-2020 10:15   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+06-29-2020 10:15   : total size is 8.36K  speedup is 80.39
+06-29-2020 10:30   : SYNC logs:
+06-29-2020 10:30   : SYNC images:
+06-29-2020 10:30   : sending incremental file list
+06-29-2020 10:30   : gb_logs/air_pump_control.log
+06-29-2020 10:30   : sending incremental file list
+06-29-2020 10:30   : gb_logs/cron.log
+06-29-2020 10:30   : 
+06-29-2020 10:30   : sent 528 bytes  received 16 bytes  217.60 bytes/sec
+06-29-2020 10:30   : total size is 18.25M  speedup is 33,540.05
+06-29-2020 10:30   : 
+06-29-2020 10:30   : sent 1.09K bytes  received 2.36K bytes  1.38K bytes/sec
+06-29-2020 10:30   : SYNC CSV:
+06-29-2020 10:30   : total size is 583.42K  speedup is 169.06
+06-29-2020 10:30   : sending incremental file list
+06-29-2020 10:30   : 
+06-29-2020 10:30   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+06-29-2020 10:30   : total size is 8.36K  speedup is 80.39
+06-29-2020 10:45   : SYNC images:
+06-29-2020 10:45   : SYNC logs:
+06-29-2020 10:45   : sending incremental file list
+06-29-2020 10:45   : sending incremental file list
+06-29-2020 10:45   : gb_logs/cron.log
+06-29-2020 10:45   : 
+06-29-2020 10:45   : sent 528 bytes  received 16 bytes  217.60 bytes/sec
+06-29-2020 10:45   : total size is 18.25M  speedup is 33,540.05
+06-29-2020 10:45   : 
+06-29-2020 10:45   : SYNC CSV:
+06-29-2020 10:45   : sent 981 bytes  received 2.19K bytes  905.14 bytes/sec
+06-29-2020 10:45   : total size is 584.23K  speedup is 184.42
+06-29-2020 10:45   : sending incremental file list
+06-29-2020 10:45   : 
+06-29-2020 10:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+06-29-2020 10:45   : total size is 8.36K  speedup is 83.61
