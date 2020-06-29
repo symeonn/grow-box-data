@@ -6244,3 +6244,7 @@
 06-29-2020 21:30   : total size is 8.61K  speedup is 27.87
 06-29-2020 21:30   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.0, co2=405.7, humidity=nan, temperature=nan, water_temperature=21.31, ph=6.66, ec=0.7, datetime='2020-06-29_21:30')
 06-29-2020 21:40   : SYNC current data:
+06-29-2020 21:40   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.0, co2=405.7, humidity=nan, temperature=nan, water_temperature=21.31, ph=6.66, ec=0.7, datetime='2020-06-29_21:40')
+06-29-2020 21:46   : VPN not connected. Connecting...
+06-29-2020 21:47   : Current IP: 10.8.0.6
+06-29-2020 21:50   : SYNC current data:
