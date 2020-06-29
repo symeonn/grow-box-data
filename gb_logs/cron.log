@@ -6237,3 +6237,10 @@
 06-29-2020 21:30   : 
 06-29-2020 21:30   : sent 1.41K bytes  received 3.13K bytes  1.01K bytes/sec
 06-29-2020 21:30   : total size is 643.20K  speedup is 141.64
+06-29-2020 21:30   : sending incremental file list
+06-29-2020 21:30   : gb_csv/grow_data.csv
+06-29-2020 21:30   : 
+06-29-2020 21:30   : sent 196 bytes  received 113 bytes  68.67 bytes/sec
+06-29-2020 21:30   : total size is 8.61K  speedup is 27.87
+06-29-2020 21:30   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.0, co2=405.7, humidity=nan, temperature=nan, water_temperature=21.31, ph=6.66, ec=0.7, datetime='2020-06-29_21:30')
+06-29-2020 21:40   : SYNC current data:
