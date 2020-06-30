@@ -6391,3 +6391,5 @@
 06-30-2020 07:00   : SYNC current data:
 06-30-2020 07:00   : CurrentState(local_ip='192.168.42.113', vpn_ip='', voc=1.1, co2=409.8, humidity=68.0, temperature=23.0, water_temperature=21.31, ph=6.19, ec=0.7, datetime='2020-06-30_07:00')
 06-30-2020 07:10   : SYNC current data:
+06-30-2020 07:10   : CurrentState(local_ip='192.168.42.113', vpn_ip='', voc=1.1, co2=409.8, humidity=68.0, temperature=23.0, water_temperature=21.31, ph=6.19, ec=0.7, datetime='2020-06-30_07:10')
+06-30-2020 07:20   : SYNC current data:
