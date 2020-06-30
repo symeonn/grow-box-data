@@ -468,3 +468,7 @@
 06-30-2020 18:05   : Water temperature: -1.00 
 06-30-2020 18:05   : Writing data to CSV...
 06-30-2020 18:05   : Data saving done.
+06-30-2020 19:05   : Getting sensors readings...
+06-30-2020 19:05   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+06-30-2020 19:05   : VOC: 1.6 :: CO2: 412.9 
+06-30-2020 19:06   : Humidity: 42.0 :: Temperature: 27.0 
