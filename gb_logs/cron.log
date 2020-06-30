@@ -6839,3 +6839,9 @@
 06-30-2020 14:00   : 
 06-30-2020 14:00   : sent 1.08K bytes  received 3.16K bytes  942.22 bytes/sec
 06-30-2020 14:00   : total size is 686.52K  speedup is 161.92
+06-30-2020 14:00   : sending incremental file list
+06-30-2020 14:00   : 
+06-30-2020 14:00   : sent 84 bytes  received 16 bytes  28.57 bytes/sec
+06-30-2020 14:00   : total size is 8.93K  speedup is 89.25
+06-30-2020 14:00   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.0, co2=416.7, humidity=58.333333333333336, temperature=23.0, water_temperature=21.12, ph=5.07, ec=0.76, datetime='2020-06-30_14:00')
+06-30-2020 14:10   : SYNC current data:
