@@ -7025,3 +7025,25 @@
 06-30-2020 16:15   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 06-30-2020 16:15   : total size is 9.00K  speedup is 89.96
 06-30-2020 16:20   : SYNC current data:
+06-30-2020 16:20   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.2, co2=413.3, humidity=56.333333333333336, temperature=23.0, water_temperature=20.94, ph=5.16, ec=0.8, datetime='2020-06-30_16:20')
+06-30-2020 16:30   : SYNC current data:
+06-30-2020 16:30   : SYNC logs:
+06-30-2020 16:30   : SYNC images:
+06-30-2020 16:30   : sending incremental file list
+06-30-2020 16:30   : sending incremental file list
+06-30-2020 16:30   : gb_logs/air_pump_control.log
+06-30-2020 16:30   : gb_logs/cron.log
+06-30-2020 16:30   : gb_logs/data_save.log
+06-30-2020 16:30   : 
+06-30-2020 16:30   : gb_logs/meters_data_save.log
+06-30-2020 16:30   : sent 570 bytes  received 16 bytes  130.22 bytes/sec
+06-30-2020 16:30   : total size is 19.98M  speedup is 34,095.73
+06-30-2020 16:30   : SYNC CSV:
+06-30-2020 16:30   : 
+06-30-2020 16:30   : sent 1.37K bytes  received 3.62K bytes  907.09 bytes/sec
+06-30-2020 16:30   : total size is 699.86K  speedup is 140.28
+06-30-2020 16:30   : sending incremental file list
+06-30-2020 16:30   : gb_csv/grow_data.csv
+06-30-2020 16:30   : 
+06-30-2020 16:30   : sent 316 bytes  received 113 bytes  122.57 bytes/sec
+06-30-2020 16:30   : total size is 9.05K  speedup is 21.10
