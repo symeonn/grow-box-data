@@ -7592,3 +7592,8 @@
 06-30-2020 23:30   : CurrentState(local_ip='192.168.42.113', vpn_ip='', voc=1.6, co2=412.9, humidity=42.0, temperature=27.0, water_temperature=21.19, ph=5.36, ec=20.81, datetime='2020-06-30_23:30')
 06-30-2020 23:30   : SYNC CSV:
 06-30-2020 23:40   : SYNC current data:
+06-30-2020 23:40   : CurrentState(local_ip='192.168.42.113', vpn_ip='', voc=1.6, co2=412.9, humidity=42.0, temperature=27.0, water_temperature=21.19, ph=5.36, ec=20.81, datetime='2020-06-30_23:40')
+06-30-2020 23:45   : SYNC logs:
+06-30-2020 23:45   : SYNC images:
+06-30-2020 23:45   : SYNC CSV:
+06-30-2020 23:50   : SYNC current data:
