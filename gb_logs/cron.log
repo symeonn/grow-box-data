@@ -6745,3 +6745,21 @@
 06-30-2020 12:45   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
 06-30-2020 12:45   : total size is 8.93K  speedup is 85.82
 06-30-2020 12:50   : SYNC current data:
+06-30-2020 12:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.0, co2=416.7, humidity=58.333333333333336, temperature=23.0, water_temperature=21.12, ph=5.07, ec=0.76, datetime='2020-06-30_12:50')
+06-30-2020 13:00   : SYNC logs:
+06-30-2020 13:00   : SYNC current data:
+06-30-2020 13:00   : SYNC images:
+06-30-2020 13:00   : sending incremental file list
+06-30-2020 13:00   : sending incremental file list
+06-30-2020 13:00   : gb_logs/cron.log
+06-30-2020 13:00   : 
+06-30-2020 13:00   : sent 544 bytes  received 16 bytes  124.44 bytes/sec
+06-30-2020 13:00   : total size is 19.15M  speedup is 34,195.86
+06-30-2020 13:00   : SYNC CSV:
+06-30-2020 13:00   : 
+06-30-2020 13:00   : sent 993 bytes  received 2.91K bytes  868.00 bytes/sec
+06-30-2020 13:00   : total size is 681.33K  speedup is 174.43
+06-30-2020 13:00   : sending incremental file list
+06-30-2020 13:00   : 
+06-30-2020 13:00   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+06-30-2020 13:00   : total size is 8.93K  speedup is 85.82
