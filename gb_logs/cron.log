@@ -8211,3 +8211,22 @@
 07-01-2020 15:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 07-01-2020 15:45   : total size is 9.32K  speedup is 93.20
 07-01-2020 15:50   : SYNC current data:
+07-01-2020 15:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.10', voc=0.1, co2=415.3, humidity=63.333333333333336, temperature=22.0, water_temperature=21.12, ph=5.6, ec=0.69, datetime='2020-07-01_15:50')
+07-01-2020 16:00   : SYNC current data:
+07-01-2020 16:00   : SYNC images:
+07-01-2020 16:00   : SYNC logs:
+07-01-2020 16:00   : sending incremental file list
+07-01-2020 16:00   : sending incremental file list
+07-01-2020 16:00   : gb_logs/air_pump_control.log
+07-01-2020 16:00   : gb_logs/cron.log
+07-01-2020 16:00   : 
+07-01-2020 16:00   : sent 593 bytes  received 16 bytes  174.00 bytes/sec
+07-01-2020 16:00   : total size is 20.71M  speedup is 34,012.08
+07-01-2020 16:00   : SYNC CSV:
+07-01-2020 16:00   : 
+07-01-2020 16:00   : sent 1.07K bytes  received 3.90K bytes  1.42K bytes/sec
+07-01-2020 16:00   : total size is 779.85K  speedup is 156.88
+07-01-2020 16:00   : sending incremental file list
+07-01-2020 16:00   : 
+07-01-2020 16:00   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+07-01-2020 16:00   : total size is 9.32K  speedup is 89.62
