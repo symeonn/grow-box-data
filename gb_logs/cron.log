@@ -8073,3 +8073,21 @@
 07-01-2020 14:00   : total size is 9.32K  speedup is 93.20
 07-01-2020 14:00   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.10', voc=0.1, co2=415.3, humidity=63.333333333333336, temperature=22.0, water_temperature=21.12, ph=5.6, ec=0.69, datetime='2020-07-01_14:00')
 07-01-2020 14:10   : SYNC current data:
+07-01-2020 14:10   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.10', voc=0.1, co2=415.3, humidity=63.333333333333336, temperature=22.0, water_temperature=21.12, ph=5.6, ec=0.69, datetime='2020-07-01_14:10')
+07-01-2020 14:15   : SYNC logs:
+07-01-2020 14:15   : SYNC images:
+07-01-2020 14:15   : sending incremental file list
+07-01-2020 14:15   : sending incremental file list
+07-01-2020 14:15   : gb_logs/cron.log
+07-01-2020 14:15   : 
+07-01-2020 14:15   : sent 574 bytes  received 16 bytes  236.00 bytes/sec
+07-01-2020 14:15   : total size is 19.98M  speedup is 33,864.58
+07-01-2020 14:15   : SYNC CSV:
+07-01-2020 14:15   : 
+07-01-2020 14:15   : sent 1.00K bytes  received 3.60K bytes  1.84K bytes/sec
+07-01-2020 14:15   : total size is 771.25K  speedup is 167.70
+07-01-2020 14:15   : sending incremental file list
+07-01-2020 14:15   : 
+07-01-2020 14:15   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+07-01-2020 14:15   : total size is 9.32K  speedup is 93.20
+07-01-2020 14:20   : SYNC current data:
