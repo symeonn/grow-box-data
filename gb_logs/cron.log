@@ -7626,3 +7626,27 @@
 07-01-2020 08:43   : VPN not connected. Connecting...
 07-01-2020 08:44   : Current IP: 10.8.0.6
 07-01-2020 08:50   : SYNC current data:
+07-01-2020 08:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=1.6, co2=412.9, humidity=42.0, temperature=27.0, water_temperature=21.19, ph=5.18, ec=0.7, datetime='2020-07-01_08:50')
+07-01-2020 09:00   : SYNC current data:
+07-01-2020 09:00   : SYNC images:
+07-01-2020 09:00   : SYNC logs:
+07-01-2020 09:00   : sending incremental file list
+07-01-2020 09:00   : sending incremental file list
+07-01-2020 09:00   : gb_logs/air_pump_control.log
+07-01-2020 09:00   : gb_logs/cron.log
+07-01-2020 09:00   : 
+07-01-2020 09:00   : sent 570 bytes  received 16 bytes  167.43 bytes/sec
+07-01-2020 09:00   : gb_logs/data_save.log
+07-01-2020 09:00   : total size is 19.98M  speedup is 34,095.73
+07-01-2020 09:00   : gb_logs/image_capture.log
+07-01-2020 09:00   : SYNC CSV:
+07-01-2020 09:00   : gb_logs/meters_data_save.log
+07-01-2020 09:00   : gb_logs/temperature_control.log
+07-01-2020 09:00   : 
+07-01-2020 09:00   : sent 2.04K bytes  received 4.20K bytes  1.39K bytes/sec
+07-01-2020 09:00   : total size is 740.89K  speedup is 118.60
+07-01-2020 09:00   : sending incremental file list
+07-01-2020 09:00   : gb_csv/grow_data.csv
+07-01-2020 09:00   : 
+07-01-2020 09:00   : sent 167 bytes  received 119 bytes  81.71 bytes/sec
+07-01-2020 09:00   : total size is 9.18K  speedup is 32.10
