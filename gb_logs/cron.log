@@ -9027,3 +9027,22 @@
 07-02-2020 10:30   : total size is 9.59K  speedup is 95.88
 07-02-2020 10:30   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.1, co2=408.6, humidity=66.0, temperature=23.0, water_temperature=21.19, ph=5.59, ec=0.69, datetime='2020-07-02_10:30')
 07-02-2020 10:40   : SYNC current data:
+07-02-2020 10:40   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.1, co2=408.6, humidity=66.0, temperature=23.0, water_temperature=21.19, ph=5.59, ec=0.69, datetime='2020-07-02_10:40')
+07-02-2020 10:45   : SYNC images:
+07-02-2020 10:45   : SYNC logs:
+07-02-2020 10:45   : sending incremental file list
+07-02-2020 10:45   : sending incremental file list
+07-02-2020 10:45   : gb_logs/air_pump_control.log
+07-02-2020 10:45   : gb_logs/cron.log
+07-02-2020 10:45   : 
+07-02-2020 10:45   : sent 597 bytes  received 16 bytes  245.20 bytes/sec
+07-02-2020 10:45   : total size is 20.71M  speedup is 33,790.14
+07-02-2020 10:45   : SYNC CSV:
+07-02-2020 10:45   : 
+07-02-2020 10:45   : sent 1.09K bytes  received 4.35K bytes  1.55K bytes/sec
+07-02-2020 10:45   : total size is 834.76K  speedup is 153.53
+07-02-2020 10:45   : sending incremental file list
+07-02-2020 10:45   : 
+07-02-2020 10:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+07-02-2020 10:45   : total size is 9.59K  speedup is 95.88
+07-02-2020 10:50   : SYNC current data:
