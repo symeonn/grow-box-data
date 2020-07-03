@@ -549,3 +549,23 @@
 07-01-2020 12:34   : Temperature: 22.0 *C - FAN off
 07-01-2020 12:39   : Temperature: 22.6666666667 *C - FAN on
 07-02-2020 01:08   : init temperature control
+07-03-2020 01:08   : init temperature control
+07-03-2020 01:08   : Temperature: 22.0 *C - FAN off
+07-03-2020 01:13   : Temperature: 23.0 *C - FAN on
+07-03-2020 01:19   : Temperature: 22.0 *C - FAN off
+07-03-2020 01:24   : Temperature: 22.6666666667 *C - FAN on
+07-03-2020 01:35   : Temperature: 22.0 *C - FAN off
+07-03-2020 01:40   : Temperature: 22.6666666667 *C - FAN on
+07-03-2020 01:46   : Temperature: 22.0 *C - FAN off
+07-03-2020 01:51   : Temperature: 22.6666666667 *C - FAN on
+07-03-2020 02:01   : Temperature: 22.0 *C - FAN off
+07-03-2020 02:07   : Temperature: 22.6666666667 *C - FAN on
+07-03-2020 02:12   : Temperature: 22.0 *C - FAN off
+07-03-2020 02:18   : Temperature: 23.0 *C - FAN on
+07-03-2020 02:23   : Temperature: 22.0 *C - FAN off
+07-03-2020 02:28   : Temperature: 22.6666666667 *C - FAN on
+07-03-2020 02:33   : Temperature: 22.0 *C - FAN off
+07-03-2020 02:39   : Temperature: 23.0 *C - FAN on
+07-03-2020 02:45   : Temperature: 22.0 *C - FAN off
+07-03-2020 02:50   : Temperature: 23.0 *C - FAN on
+07-03-2020 03:02   : Temperature: 22.0 *C - FAN off
