@@ -10865,3 +10865,21 @@
 07-03-2020 18:15   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
 07-03-2020 18:15   : total size is 9.73K  speedup is 93.54
 07-03-2020 18:20   : SYNC current data:
+07-03-2020 18:20   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.1, co2=410.7, humidity=69.66666666666667, temperature=22.0, water_temperature=20.87, ph=5.57, ec=0.69, datetime='2020-07-03_18:20')
+07-03-2020 18:30   : SYNC current data:
+07-03-2020 18:30   : SYNC logs:
+07-03-2020 18:30   : SYNC images:
+07-03-2020 18:30   : sending incremental file list
+07-03-2020 18:30   : sending incremental file list
+07-03-2020 18:30   : gb_logs/cron.log
+07-03-2020 18:30   : 
+07-03-2020 18:30   : sent 649 bytes  received 16 bytes  266.00 bytes/sec
+07-03-2020 18:30   : total size is 22.08M  speedup is 33,200.60
+07-03-2020 18:30   : SYNC CSV:
+07-03-2020 18:30   : 
+07-03-2020 18:30   : sent 970 bytes  received 4.66K bytes  1.61K bytes/sec
+07-03-2020 18:30   : total size is 953.22K  speedup is 169.22
+07-03-2020 18:30   : sending incremental file list
+07-03-2020 18:30   : 
+07-03-2020 18:30   : sent 88 bytes  received 16 bytes  29.71 bytes/sec
+07-03-2020 18:30   : total size is 9.73K  speedup is 93.54
