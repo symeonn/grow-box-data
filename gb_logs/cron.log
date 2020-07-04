@@ -11407,3 +11407,22 @@
 07-04-2020 09:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 07-04-2020 09:45   : total size is 9.73K  speedup is 97.28
 07-04-2020 09:50   : SYNC current data:
+07-04-2020 09:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.1, co2=410.7, humidity=69.66666666666667, temperature=22.0, water_temperature=20.87, ph=5.57, ec=0.69, datetime='2020-07-04_09:50')
+07-04-2020 10:00   : SYNC images:
+07-04-2020 10:00   : SYNC current data:
+07-04-2020 10:00   : SYNC logs:
+07-04-2020 10:00   : sending incremental file list
+07-04-2020 10:00   : sending incremental file list
+07-04-2020 10:00   : gb_logs/air_pump_control.log
+07-04-2020 10:00   : gb_logs/cron.log
+07-04-2020 10:00   : 
+07-04-2020 10:00   : sent 649 bytes  received 16 bytes  266.00 bytes/sec
+07-04-2020 10:00   : total size is 22.08M  speedup is 33,200.60
+07-04-2020 10:00   : SYNC CSV:
+07-04-2020 10:00   : 
+07-04-2020 10:00   : sent 1.04K bytes  received 5.08K bytes  1.75K bytes/sec
+07-04-2020 10:00   : total size is 989.75K  speedup is 161.57
+07-04-2020 10:00   : sending incremental file list
+07-04-2020 10:00   : 
+07-04-2020 10:00   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
+07-04-2020 10:00   : total size is 9.73K  speedup is 93.54
