@@ -561,3 +561,6 @@
 07-04-2020 10:08   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
 07-04-2020 10:09   : VOC: 0.5 :: CO2: 413.3 
 07-04-2020 10:09   : Humidity: 64.0 :: Temperature: 22.0 
+07-04-2020 11:08   : Water temperature: 21.12 
+07-04-2020 11:08   : Writing data to CSV...
+07-04-2020 11:08   : Data saving done.
