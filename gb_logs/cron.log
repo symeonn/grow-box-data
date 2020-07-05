@@ -13105,3 +13105,22 @@
 07-05-2020 15:30   : total size is 10.29K  speedup is 102.93
 07-05-2020 15:30   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.6, co2=417.9, humidity=70.0, temperature=22.0, water_temperature=21.06, ph=5.91, ec=0.01, datetime='2020-07-05_15:30')
 07-05-2020 15:40   : SYNC current data:
+07-05-2020 15:40   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.6, co2=417.9, humidity=70.0, temperature=22.0, water_temperature=21.06, ph=5.91, ec=0.01, datetime='2020-07-05_15:40')
+07-05-2020 15:45   : SYNC images:
+07-05-2020 15:45   : SYNC logs:
+07-05-2020 15:45   : sending incremental file list
+07-05-2020 15:45   : sending incremental file list
+07-05-2020 15:45   : gb_logs/air_pump_control.log
+07-05-2020 15:45   : gb_logs/cron.log
+07-05-2020 15:45   : 
+07-05-2020 15:45   : sent 670 bytes  received 16 bytes  152.44 bytes/sec
+07-05-2020 15:45   : total size is 22.82M  speedup is 33,262.91
+07-05-2020 15:45   : SYNC CSV:
+07-05-2020 15:45   : 
+07-05-2020 15:45   : sent 1.07K bytes  received 5.49K bytes  1.46K bytes/sec
+07-05-2020 15:45   : total size is 1.10M  speedup is 168.10
+07-05-2020 15:45   : sending incremental file list
+07-05-2020 15:45   : 
+07-05-2020 15:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+07-05-2020 15:45   : total size is 10.29K  speedup is 102.93
+07-05-2020 15:50   : SYNC current data:
