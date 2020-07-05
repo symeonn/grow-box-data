@@ -12720,3 +12720,21 @@
 07-05-2020 10:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 07-05-2020 10:45   : total size is 10.10K  speedup is 100.96
 07-05-2020 10:50   : SYNC current data:
+07-05-2020 10:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=1.2, co2=417.4, humidity=66.33333333333333, temperature=21.333333333333332, water_temperature=20.75, ph=5.92, ec=0.01, datetime='2020-07-05_10:50')
+07-05-2020 11:00   : SYNC images:
+07-05-2020 11:00   : SYNC current data:
+07-05-2020 11:00   : SYNC logs:
+07-05-2020 11:00   : sending incremental file list
+07-05-2020 11:00   : sending incremental file list
+07-05-2020 11:00   : gb_logs/cron.log
+07-05-2020 11:00   : 
+07-05-2020 11:00   : sent 674 bytes  received 16 bytes  276.00 bytes/sec
+07-05-2020 11:00   : total size is 22.82M  speedup is 33,070.08
+07-05-2020 11:00   : SYNC CSV:
+07-05-2020 11:00   : 
+07-05-2020 11:00   : sent 1.01K bytes  received 5.09K bytes  1.74K bytes/sec
+07-05-2020 11:00   : total size is 1.08M  speedup is 176.71
+07-05-2020 11:00   : sending incremental file list
+07-05-2020 11:00   : 
+07-05-2020 11:00   : sent 84 bytes  received 16 bytes  28.57 bytes/sec
+07-05-2020 11:00   : total size is 10.10K  speedup is 100.96
