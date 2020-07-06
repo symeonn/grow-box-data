@@ -14119,3 +14119,19 @@
 07-06-2020 12:45   : sent 168 bytes  received 131 bytes  119.60 bytes/sec
 07-06-2020 12:45   : total size is 10.62K  speedup is 35.51
 07-06-2020 12:50   : SYNC current data:
+07-06-2020 12:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.6, co2=410.3, humidity=69.0, temperature=22.0, water_temperature=21.12, ph=6.05, ec=0.01, datetime='2020-07-06_12:50')
+07-06-2020 13:00   : SYNC images:
+07-06-2020 13:00   : SYNC current data:
+07-06-2020 13:00   : SYNC logs:
+07-06-2020 13:00   : sending incremental file list
+07-06-2020 13:00   : sending incremental file list
+07-06-2020 13:00   : gb_logs/air_pump_control.log
+07-06-2020 13:00   : 
+07-06-2020 13:00   : gb_logs/cron.log
+07-06-2020 13:00   : sent 695 bytes  received 16 bytes  158.00 bytes/sec
+07-06-2020 13:00   : total size is 23.44M  speedup is 32,971.82
+07-06-2020 13:00   : SYNC CSV:
+07-06-2020 13:00   : 
+07-06-2020 13:00   : sent 1.14K bytes  received 5.74K bytes  1.53K bytes/sec
+07-06-2020 13:00   : total size is 1.17M  speedup is 169.98
+07-06-2020 13:00   : sending incremental file list
