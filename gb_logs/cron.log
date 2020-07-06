@@ -14340,3 +14340,7 @@
 07-06-2020 15:30   : total size is 1.18M  speedup is 183.60
 07-06-2020 15:30   : sending incremental file list
 07-06-2020 15:30   : 
+07-06-2020 15:30   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+07-06-2020 15:30   : total size is 10.74K  speedup is 107.45
+07-06-2020 15:30   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.0, co2=410.4, humidity=67.0, temperature=22.0, water_temperature=20.94, ph=6.01, ec=0.01, datetime='2020-07-06_15:30')
+07-06-2020 15:40   : SYNC current data:
