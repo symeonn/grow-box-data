@@ -755,3 +755,11 @@
 07-07-2020 19:23   : Water temperature: 20.44 
 07-07-2020 19:23   : Writing data to CSV...
 07-07-2020 19:23   : Data saving done.
+07-07-2020 20:23   : Getting sensors readings...
+07-07-2020 20:23   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+07-07-2020 20:23   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+07-07-2020 20:24   : VOC: 0.6 :: CO2: 408.2 
+07-07-2020 20:24   : Humidity: 50.3333333333 :: Temperature: 22.0 
+07-07-2020 20:28   : Water temperature: 20.50 
+07-07-2020 20:28   : Writing data to CSV...
+07-07-2020 20:28   : Data saving done.
