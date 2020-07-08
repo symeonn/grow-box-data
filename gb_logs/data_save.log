@@ -772,3 +772,8 @@
 07-07-2020 22:08   : Writing data to CSV...
 07-07-2020 22:08   : Data saving done.
 07-08-2020 01:07   : init data save
+07-08-2020 10:07   : Getting sensors readings...
+07-08-2020 10:07   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+07-08-2020 10:08   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+07-08-2020 10:08   : VOC: 0.6 :: CO2: 410.2 
+07-08-2020 10:09   : Humidity: 52.0 :: Temperature: 23.0 
