@@ -16251,3 +16251,8 @@
 07-10-2020 11:00   : SYNC CSV:
 07-10-2020 11:00   : CurrentState(local_ip='', vpn_ip='', voc=0.0, co2=402.9, humidity=64.0, temperature=22.0, water_temperature=21.19, ph=6.38, ec=0.01, datetime='2020-07-10_11:00')
 07-10-2020 11:10   : SYNC current data:
+07-10-2020 11:10   : CurrentState(local_ip='', vpn_ip='', voc=0.0, co2=402.9, humidity=64.0, temperature=22.0, water_temperature=21.19, ph=6.38, ec=0.01, datetime='2020-07-10_11:10')
+07-10-2020 11:15   : SYNC logs:
+07-10-2020 11:15   : SYNC images:
+07-10-2020 11:15   : SYNC CSV:
+07-10-2020 11:20   : SYNC current data:
