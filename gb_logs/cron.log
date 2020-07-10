@@ -16400,3 +16400,8 @@
 07-10-2020 17:15   : SYNC images:
 07-10-2020 17:15   : SYNC CSV:
 07-10-2020 17:20   : SYNC current data:
+07-10-2020 17:20   : CurrentState(local_ip='', vpn_ip='', voc=0.3, co2=413.6, humidity=57.333333333333336, temperature=23.0, water_temperature=20.81, ph=6.49, ec=0.01, datetime='2020-07-10_17:20')
+07-10-2020 17:30   : SYNC images:
+07-10-2020 17:30   : SYNC logs:
+07-10-2020 17:30   : SYNC current data:
+07-10-2020 17:30   : SYNC CSV:
