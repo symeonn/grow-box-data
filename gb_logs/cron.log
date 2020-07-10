@@ -16441,3 +16441,33 @@
 07-10-2020 19:00   : SYNC logs:
 07-10-2020 19:00   : SYNC current data:
 07-10-2020 19:00   : SYNC CSV:
+07-10-2020 19:00   : CurrentState(local_ip='', vpn_ip='', voc=0.0, co2=411.8, humidity=62.333333333333336, temperature=23.0, water_temperature=20.69, ph=6.43, ec=0.01, datetime='2020-07-10_19:00')
+07-10-2020 19:11   : VPN not connected. Connecting...
+07-10-2020 19:12   : Current IP: 10.8.0.6
+07-10-2020 19:15   : SYNC logs:
+07-10-2020 19:15   : SYNC images:
+07-10-2020 19:15   : sending incremental file list
+07-10-2020 19:15   : sending incremental file list
+07-10-2020 19:15   : gb_logs/air_pump_control.log
+07-10-2020 19:15   : gb_logs/cron.log
+07-10-2020 19:15   : gb_cam_images/2020-07-07_1547.jpg
+07-10-2020 19:15   : gb_logs/data_save.log
+07-10-2020 19:15   : gb_logs/image_capture.log
+07-10-2020 19:15   : gb_logs/meters_data_save.log
+07-10-2020 19:15   : gb_logs/temperature_control.log
+07-10-2020 19:15   : gb_cam_images/2020-07-08_1547.jpg
+07-10-2020 19:15   : gb_cam_images/2020-07-09_1547.jpg
+07-10-2020 19:15   : 
+07-10-2020 19:15   : sent 10.79K bytes  received 6.77K bytes  2.34K bytes/sec
+07-10-2020 19:15   : total size is 1.37M  speedup is 78.21
+07-10-2020 19:15   : gb_cam_images/2020-07-10_1532.jpg
+07-10-2020 19:16   : 
+07-10-2020 19:16   : sent 2.75M bytes  received 96 bytes  43.28K bytes/sec
+07-10-2020 19:16   : total size is 26.82M  speedup is 9.76
+07-10-2020 19:16   : SYNC CSV:
+07-10-2020 19:16   : sending incremental file list
+07-10-2020 19:16   : gb_csv/grow_data.csv
+07-10-2020 19:16   : 
+07-10-2020 19:16   : sent 603 bytes  received 131 bytes  293.60 bytes/sec
+07-10-2020 19:16   : total size is 12.39K  speedup is 16.88
+07-10-2020 19:20   : SYNC current data:
