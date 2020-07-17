@@ -19495,3 +19495,394 @@
 07-15-2020 19:30   : SYNC CSV:
 07-15-2020 19:30   : CurrentState(local_ip='', vpn_ip='', voc=1.3, co2=409.1, humidity=65.0, temperature=21.0, water_temperature=19.81, ph=6.59, ec=0.02, datetime='2020-07-15_19:30')
 07-15-2020 19:40   : SYNC current data:
+07-15-2020 19:40   : CurrentState(local_ip='', vpn_ip='', voc=1.3, co2=409.1, humidity=65.0, temperature=21.0, water_temperature=19.81, ph=6.59, ec=0.02, datetime='2020-07-15_19:40')
+07-15-2020 19:45   : SYNC images:
+07-15-2020 19:45   : SYNC logs:
+07-15-2020 19:45   : SYNC CSV:
+07-15-2020 19:50   : SYNC current data:
+07-15-2020 20:00   : SYNC images:
+07-15-2020 20:00   : SYNC logs:
+07-15-2020 20:00   : SYNC current data:
+07-15-2020 20:00   : SYNC CSV:
+07-15-2020 20:10   : SYNC current data:
+07-15-2020 20:15   : SYNC images:
+07-15-2020 20:15   : SYNC logs:
+07-15-2020 20:15   : SYNC CSV:
+07-15-2020 20:20   : SYNC current data:
+07-15-2020 20:30   : SYNC current data:
+07-15-2020 20:30   : SYNC logs:
+07-15-2020 20:30   : SYNC images:
+07-15-2020 20:30   : SYNC CSV:
+07-15-2020 20:40   : SYNC current data:
+07-15-2020 20:45   : SYNC images:
+07-15-2020 20:45   : SYNC logs:
+07-15-2020 20:45   : SYNC CSV:
+07-15-2020 20:50   : SYNC current data:
+07-15-2020 21:00   : SYNC current data:
+07-15-2020 21:00   : SYNC logs:
+07-15-2020 21:00   : SYNC images:
+07-15-2020 21:00   : SYNC CSV:
+07-15-2020 21:10   : SYNC current data:
+07-15-2020 21:15   : SYNC logs:
+07-15-2020 21:15   : SYNC images:
+07-15-2020 21:15   : SYNC CSV:
+07-15-2020 21:20   : SYNC current data:
+07-15-2020 21:30   : SYNC images:
+07-15-2020 21:30   : SYNC logs:
+07-15-2020 21:30   : SYNC current data:
+07-15-2020 21:30   : SYNC CSV:
+07-15-2020 21:40   : SYNC current data:
+07-15-2020 21:45   : SYNC images:
+07-15-2020 21:45   : SYNC logs:
+07-15-2020 21:45   : SYNC CSV:
+07-15-2020 21:50   : SYNC current data:
+07-15-2020 22:00   : SYNC logs:
+07-15-2020 22:00   : SYNC images:
+07-15-2020 22:00   : SYNC current data:
+07-15-2020 22:00   : SYNC CSV:
+07-15-2020 22:10   : SYNC current data:
+07-15-2020 22:15   : SYNC images:
+07-15-2020 22:15   : SYNC logs:
+07-15-2020 22:15   : SYNC CSV:
+07-15-2020 22:20   : SYNC current data:
+07-15-2020 22:30   : SYNC current data:
+07-15-2020 22:30   : SYNC logs:
+07-15-2020 22:30   : SYNC images:
+07-15-2020 22:30   : SYNC CSV:
+07-15-2020 22:40   : SYNC current data:
+07-15-2020 22:45   : SYNC images:
+07-15-2020 22:45   : SYNC logs:
+07-15-2020 22:45   : SYNC CSV:
+07-15-2020 22:50   : SYNC current data:
+07-15-2020 23:00   : SYNC images:
+07-15-2020 23:00   : SYNC logs:
+07-15-2020 23:00   : SYNC current data:
+07-15-2020 23:00   : SYNC CSV:
+07-15-2020 23:10   : SYNC current data:
+07-15-2020 23:15   : SYNC logs:
+07-15-2020 23:15   : SYNC images:
+07-15-2020 23:15   : SYNC CSV:
+07-15-2020 23:20   : SYNC current data:
+07-15-2020 23:30   : SYNC logs:
+07-15-2020 23:30   : SYNC images:
+07-15-2020 23:30   : SYNC current data:
+07-15-2020 23:30   : SYNC CSV:
+07-15-2020 23:40   : SYNC current data:
+07-15-2020 23:45   : SYNC logs:
+07-15-2020 23:45   : SYNC images:
+07-15-2020 23:45   : SYNC CSV:
+07-15-2020 23:50   : SYNC current data:
+07-16-2020 01:05   : Daily restart...
+07-16-2020 01:06   : VPN not connected. Connecting...
+07-16-2020 01:07   : Current IP: 
+07-16-2020 07:00   : SYNC current data:
+07-16-2020 07:10   : SYNC current data:
+07-16-2020 07:20   : SYNC current data:
+07-16-2020 07:30   : SYNC current data:
+07-16-2020 07:40   : SYNC current data:
+07-16-2020 07:50   : SYNC current data:
+07-16-2020 08:00   : SYNC current data:
+07-16-2020 08:10   : SYNC current data:
+07-16-2020 08:20   : SYNC current data:
+07-16-2020 08:30   : SYNC current data:
+07-16-2020 08:40   : SYNC current data:
+07-16-2020 08:50   : SYNC current data:
+07-16-2020 09:00   : SYNC logs:
+07-16-2020 09:00   : SYNC images:
+07-16-2020 09:00   : SYNC current data:
+07-16-2020 09:00   : SYNC CSV:
+07-16-2020 09:10   : SYNC current data:
+07-16-2020 09:15   : SYNC logs:
+07-16-2020 09:15   : SYNC images:
+07-16-2020 09:15   : SYNC CSV:
+07-16-2020 09:20   : SYNC current data:
+07-16-2020 09:30   : SYNC logs:
+07-16-2020 09:30   : SYNC current data:
+07-16-2020 09:30   : SYNC images:
+07-16-2020 09:30   : SYNC CSV:
+07-16-2020 09:40   : SYNC current data:
+07-16-2020 09:45   : SYNC images:
+07-16-2020 09:45   : SYNC logs:
+07-16-2020 09:45   : SYNC CSV:
+07-16-2020 09:50   : SYNC current data:
+07-16-2020 10:00   : SYNC images:
+07-16-2020 10:00   : SYNC logs:
+07-16-2020 10:00   : SYNC current data:
+07-16-2020 10:00   : SYNC CSV:
+07-16-2020 10:10   : SYNC current data:
+07-16-2020 10:15   : SYNC logs:
+07-16-2020 10:15   : SYNC images:
+07-16-2020 10:15   : SYNC CSV:
+07-16-2020 10:20   : SYNC current data:
+07-16-2020 10:30   : SYNC images:
+07-16-2020 10:30   : SYNC current data:
+07-16-2020 10:30   : SYNC logs:
+07-16-2020 10:30   : SYNC CSV:
+07-16-2020 10:40   : SYNC current data:
+07-16-2020 10:45   : SYNC images:
+07-16-2020 10:45   : SYNC logs:
+07-16-2020 10:45   : SYNC CSV:
+07-16-2020 10:50   : SYNC current data:
+07-16-2020 11:00   : SYNC logs:
+07-16-2020 11:00   : SYNC images:
+07-16-2020 11:00   : SYNC current data:
+07-16-2020 11:00   : SYNC CSV:
+07-16-2020 11:10   : SYNC current data:
+07-16-2020 11:15   : SYNC images:
+07-16-2020 11:15   : SYNC logs:
+07-16-2020 11:15   : SYNC CSV:
+07-16-2020 11:20   : SYNC current data:
+07-16-2020 11:30   : SYNC current data:
+07-16-2020 11:30   : SYNC logs:
+07-16-2020 11:30   : SYNC images:
+07-16-2020 11:30   : SYNC CSV:
+07-16-2020 11:40   : SYNC current data:
+07-16-2020 11:45   : SYNC logs:
+07-16-2020 11:45   : SYNC images:
+07-16-2020 11:45   : SYNC CSV:
+07-16-2020 11:50   : SYNC current data:
+07-16-2020 12:00   : SYNC images:
+07-16-2020 12:00   : SYNC current data:
+07-16-2020 12:00   : SYNC logs:
+07-16-2020 12:00   : SYNC CSV:
+07-16-2020 12:10   : SYNC current data:
+07-16-2020 12:15   : SYNC logs:
+07-16-2020 12:15   : SYNC images:
+07-16-2020 12:15   : SYNC CSV:
+07-16-2020 12:20   : SYNC current data:
+07-16-2020 12:30   : SYNC images:
+07-16-2020 12:30   : SYNC logs:
+07-16-2020 12:30   : SYNC current data:
+07-16-2020 12:30   : SYNC CSV:
+07-16-2020 12:40   : SYNC current data:
+07-16-2020 12:45   : SYNC images:
+07-16-2020 12:45   : SYNC logs:
+07-16-2020 12:45   : SYNC CSV:
+07-16-2020 12:50   : SYNC current data:
+07-16-2020 13:00   : SYNC current data:
+07-16-2020 13:00   : SYNC logs:
+07-16-2020 13:00   : SYNC images:
+07-16-2020 13:00   : SYNC CSV:
+07-16-2020 13:10   : SYNC current data:
+07-16-2020 13:15   : SYNC images:
+07-16-2020 13:15   : SYNC logs:
+07-16-2020 13:15   : SYNC CSV:
+07-16-2020 13:20   : SYNC current data:
+07-16-2020 13:30   : SYNC logs:
+07-16-2020 13:30   : SYNC current data:
+07-16-2020 13:30   : SYNC images:
+07-16-2020 13:30   : SYNC CSV:
+07-16-2020 13:40   : SYNC current data:
+07-16-2020 13:45   : SYNC logs:
+07-16-2020 13:45   : SYNC images:
+07-16-2020 13:45   : SYNC CSV:
+07-16-2020 13:50   : SYNC current data:
+07-16-2020 14:00   : SYNC logs:
+07-16-2020 14:00   : SYNC images:
+07-16-2020 14:00   : SYNC current data:
+07-16-2020 14:00   : SYNC CSV:
+07-16-2020 14:10   : SYNC current data:
+07-16-2020 14:15   : SYNC logs:
+07-16-2020 14:15   : SYNC images:
+07-16-2020 14:15   : SYNC CSV:
+07-16-2020 14:20   : SYNC current data:
+07-16-2020 14:30   : SYNC images:
+07-16-2020 14:30   : SYNC logs:
+07-16-2020 14:30   : SYNC current data:
+07-16-2020 14:30   : SYNC CSV:
+07-16-2020 14:40   : SYNC current data:
+07-16-2020 14:45   : SYNC images:
+07-16-2020 14:45   : SYNC logs:
+07-16-2020 14:45   : SYNC CSV:
+07-16-2020 14:50   : SYNC current data:
+07-16-2020 15:00   : SYNC images:
+07-16-2020 15:00   : SYNC current data:
+07-16-2020 15:00   : SYNC logs:
+07-16-2020 15:00   : SYNC CSV:
+07-16-2020 15:10   : SYNC current data:
+07-16-2020 15:15   : SYNC logs:
+07-16-2020 15:15   : SYNC images:
+07-16-2020 15:15   : SYNC CSV:
+07-16-2020 15:20   : SYNC current data:
+07-16-2020 15:30   : SYNC logs:
+07-16-2020 15:30   : SYNC current data:
+07-16-2020 15:30   : SYNC images:
+07-16-2020 15:30   : SYNC CSV:
+07-16-2020 15:40   : SYNC current data:
+07-16-2020 15:45   : SYNC images:
+07-16-2020 15:45   : SYNC logs:
+07-16-2020 15:45   : SYNC CSV:
+07-16-2020 15:50   : SYNC current data:
+07-16-2020 16:00   : SYNC images:
+07-16-2020 16:00   : SYNC logs:
+07-16-2020 16:00   : SYNC current data:
+07-16-2020 16:00   : SYNC CSV:
+07-16-2020 16:10   : SYNC current data:
+07-16-2020 16:15   : SYNC logs:
+07-16-2020 16:15   : SYNC images:
+07-16-2020 16:15   : SYNC CSV:
+07-16-2020 16:20   : SYNC current data:
+07-16-2020 16:30   : SYNC logs:
+07-16-2020 16:30   : SYNC images:
+07-16-2020 16:30   : SYNC current data:
+07-16-2020 16:30   : SYNC CSV:
+07-16-2020 16:40   : SYNC current data:
+07-16-2020 16:45   : SYNC logs:
+07-16-2020 16:45   : SYNC images:
+07-16-2020 16:45   : SYNC CSV:
+07-16-2020 16:50   : SYNC current data:
+07-16-2020 17:00   : SYNC images:
+07-16-2020 17:00   : SYNC logs:
+07-16-2020 17:00   : SYNC current data:
+07-16-2020 17:00   : SYNC CSV:
+07-16-2020 17:10   : SYNC current data:
+07-16-2020 17:15   : SYNC logs:
+07-16-2020 17:15   : SYNC images:
+07-16-2020 17:15   : SYNC CSV:
+07-16-2020 17:20   : SYNC current data:
+07-16-2020 17:30   : SYNC current data:
+07-16-2020 17:30   : SYNC logs:
+07-16-2020 17:30   : SYNC images:
+07-16-2020 17:30   : SYNC CSV:
+07-16-2020 17:40   : SYNC current data:
+07-16-2020 17:45   : SYNC logs:
+07-16-2020 17:45   : SYNC images:
+07-16-2020 17:45   : SYNC CSV:
+07-16-2020 17:50   : SYNC current data:
+07-16-2020 18:00   : SYNC logs:
+07-16-2020 18:00   : SYNC images:
+07-16-2020 18:00   : SYNC current data:
+07-16-2020 18:00   : SYNC CSV:
+07-16-2020 18:10   : SYNC current data:
+07-16-2020 18:15   : SYNC images:
+07-16-2020 18:15   : SYNC logs:
+07-16-2020 18:15   : SYNC CSV:
+07-16-2020 18:20   : SYNC current data:
+07-16-2020 18:30   : SYNC logs:
+07-16-2020 18:30   : SYNC images:
+07-16-2020 18:30   : SYNC current data:
+07-16-2020 18:30   : SYNC CSV:
+07-16-2020 18:40   : SYNC current data:
+07-16-2020 18:45   : SYNC logs:
+07-16-2020 18:45   : SYNC images:
+07-16-2020 18:45   : SYNC CSV:
+07-16-2020 18:50   : SYNC current data:
+07-16-2020 19:00   : SYNC current data:
+07-16-2020 19:00   : SYNC logs:
+07-16-2020 19:00   : SYNC images:
+07-16-2020 19:00   : SYNC CSV:
+07-16-2020 19:10   : SYNC current data:
+07-16-2020 19:15   : SYNC logs:
+07-16-2020 19:15   : SYNC images:
+07-16-2020 19:15   : SYNC CSV:
+07-16-2020 19:20   : SYNC current data:
+07-16-2020 19:30   : SYNC images:
+07-16-2020 19:30   : SYNC logs:
+07-16-2020 19:30   : SYNC current data:
+07-16-2020 19:30   : SYNC CSV:
+07-16-2020 19:40   : SYNC current data:
+07-16-2020 19:45   : SYNC images:
+07-16-2020 19:45   : SYNC logs:
+07-16-2020 19:45   : SYNC CSV:
+07-16-2020 19:50   : SYNC current data:
+07-16-2020 20:00   : SYNC current data:
+07-16-2020 20:00   : SYNC images:
+07-16-2020 20:00   : SYNC logs:
+07-16-2020 20:00   : SYNC CSV:
+07-16-2020 20:10   : SYNC current data:
+07-16-2020 20:15   : SYNC logs:
+07-16-2020 20:15   : SYNC images:
+07-16-2020 20:15   : SYNC CSV:
+07-16-2020 20:20   : SYNC current data:
+07-16-2020 20:30   : SYNC images:
+07-16-2020 20:30   : SYNC logs:
+07-16-2020 20:30   : SYNC current data:
+07-16-2020 20:30   : SYNC CSV:
+07-16-2020 20:40   : SYNC current data:
+07-16-2020 20:45   : SYNC logs:
+07-16-2020 20:45   : SYNC images:
+07-16-2020 20:45   : SYNC CSV:
+07-16-2020 20:50   : SYNC current data:
+07-16-2020 21:00   : SYNC images:
+07-16-2020 21:00   : SYNC current data:
+07-16-2020 21:00   : SYNC logs:
+07-16-2020 21:00   : SYNC CSV:
+07-16-2020 21:10   : SYNC current data:
+07-16-2020 21:15   : SYNC images:
+07-16-2020 21:15   : SYNC logs:
+07-16-2020 21:15   : SYNC CSV:
+07-16-2020 21:20   : SYNC current data:
+07-16-2020 21:30   : SYNC current data:
+07-16-2020 21:30   : SYNC logs:
+07-16-2020 21:30   : SYNC images:
+07-16-2020 21:30   : SYNC CSV:
+07-16-2020 21:40   : SYNC current data:
+07-16-2020 21:45   : SYNC logs:
+07-16-2020 21:45   : SYNC images:
+07-16-2020 21:45   : SYNC CSV:
+07-16-2020 21:50   : SYNC current data:
+07-16-2020 22:00   : SYNC current data:
+07-16-2020 22:00   : SYNC images:
+07-16-2020 22:00   : SYNC logs:
+07-16-2020 22:00   : SYNC CSV:
+07-16-2020 22:10   : SYNC current data:
+07-16-2020 22:15   : SYNC images:
+07-16-2020 22:15   : SYNC logs:
+07-16-2020 22:15   : SYNC CSV:
+07-16-2020 22:20   : SYNC current data:
+07-16-2020 22:30   : SYNC current data:
+07-16-2020 22:30   : SYNC images:
+07-16-2020 22:30   : SYNC logs:
+07-16-2020 22:30   : SYNC CSV:
+07-16-2020 22:40   : SYNC current data:
+07-16-2020 22:45   : SYNC logs:
+07-16-2020 22:45   : SYNC images:
+07-16-2020 22:45   : SYNC CSV:
+07-16-2020 22:50   : SYNC current data:
+07-16-2020 23:00   : SYNC logs:
+07-16-2020 23:00   : SYNC images:
+07-16-2020 23:00   : SYNC current data:
+07-16-2020 23:00   : SYNC CSV:
+07-16-2020 23:10   : SYNC current data:
+07-16-2020 23:15   : SYNC logs:
+07-16-2020 23:15   : SYNC images:
+07-16-2020 23:15   : SYNC CSV:
+07-16-2020 23:20   : SYNC current data:
+07-16-2020 23:30   : SYNC logs:
+07-16-2020 23:30   : SYNC current data:
+07-16-2020 23:30   : SYNC images:
+07-16-2020 23:30   : SYNC CSV:
+07-16-2020 23:40   : SYNC current data:
+07-16-2020 23:45   : SYNC images:
+07-16-2020 23:45   : SYNC logs:
+07-16-2020 23:45   : SYNC CSV:
+07-16-2020 23:50   : SYNC current data:
+07-17-2020 01:05   : Daily restart...
+07-17-2020 01:06   : VPN not connected. Connecting...
+07-17-2020 01:07   : Current IP: 
+07-17-2020 07:00   : SYNC current data:
+07-17-2020 07:10   : SYNC current data:
+07-17-2020 07:20   : SYNC current data:
+07-17-2020 07:30   : SYNC current data:
+07-17-2020 07:40   : SYNC current data:
+07-17-2020 07:50   : SYNC current data:
+07-17-2020 08:00   : SYNC current data:
+07-17-2020 08:10   : SYNC current data:
+07-17-2020 08:20   : SYNC current data:
+07-17-2020 08:30   : SYNC current data:
+07-17-2020 08:40   : SYNC current data:
+07-17-2020 08:50   : SYNC current data:
+07-17-2020 09:00   : SYNC current data:
+07-17-2020 09:00   : SYNC logs:
+07-17-2020 09:00   : SYNC images:
+07-17-2020 09:00   : SYNC CSV:
+07-17-2020 09:10   : SYNC current data:
+07-17-2020 09:15   : SYNC logs:
+07-17-2020 09:15   : SYNC images:
+07-17-2020 09:15   : SYNC CSV:
+07-17-2020 09:20   : SYNC current data:
+07-17-2020 09:30   : SYNC logs:
+07-17-2020 09:30   : SYNC current data:
+07-17-2020 09:30   : SYNC images:
+07-17-2020 09:30   : SYNC CSV:
+07-17-2020 09:40   : SYNC current data:
