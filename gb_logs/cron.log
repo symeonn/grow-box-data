@@ -20840,3 +20840,23 @@
 07-18-2020 22:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 07-18-2020 22:45   : total size is 15.01K  speedup is 150.11
 07-18-2020 22:50   : SYNC current data:
+07-18-2020 22:50   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.6', voc=0.7, co2=410.9, humidity=60.666666666666664, temperature=23.0, water_temperature=20.44, ph=7.12, ec=0.01, datetime='2020-07-18_22:50')
+07-18-2020 23:00   : SYNC images:
+07-18-2020 23:00   : SYNC logs:
+07-18-2020 23:00   : SYNC current data:
+07-18-2020 23:00   : sending incremental file list
+07-18-2020 23:00   : sending incremental file list
+07-18-2020 23:00   : gb_logs/cron.log
+07-18-2020 23:00   : 
+07-18-2020 23:00   : sent 998 bytes  received 16 bytes  405.60 bytes/sec
+07-18-2020 23:00   : total size is 32.80M  speedup is 32,348.46
+07-18-2020 23:00   : SYNC CSV:
+07-18-2020 23:00   : gb_logs/data_save.log
+07-18-2020 23:00   : gb_logs/temperature_control.log
+07-18-2020 23:00   : 
+07-18-2020 23:00   : sent 1.24K bytes  received 7.93K bytes  2.62K bytes/sec
+07-18-2020 23:00   : total size is 1.74M  speedup is 189.48
+07-18-2020 23:00   : sending incremental file list
+07-18-2020 23:00   : 
+07-18-2020 23:00   : sent 84 bytes  received 16 bytes  28.57 bytes/sec
+07-18-2020 23:00   : total size is 15.01K  speedup is 150.11
