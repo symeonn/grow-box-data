@@ -22917,3 +22917,22 @@
 07-20-2020 21:15   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 07-20-2020 21:15   : total size is 16.27K  speedup is 162.70
 07-20-2020 21:20   : SYNC current data:
+07-20-2020 21:20   : CurrentState(local_ip='192.168.42.54', vpn_ip='10.8.0.10', voc=0.4, co2=419.9, humidity=65.66666666666667, temperature=22.0, water_temperature=20.81, ph=8.75, ec=16.49, datetime='2020-07-20_21:20')
+07-20-2020 21:30   : SYNC current data:
+07-20-2020 21:30   : SYNC images:
+07-20-2020 21:30   : SYNC logs:
+07-20-2020 21:30   : sending incremental file list
+07-20-2020 21:30   : sending incremental file list
+07-20-2020 21:30   : gb_logs/cron.log
+07-20-2020 21:30   : 
+07-20-2020 21:30   : sent 1.04K bytes  received 16 bytes  303.14 bytes/sec
+07-20-2020 21:30   : total size is 34.40M  speedup is 32,424.17
+07-20-2020 21:30   : SYNC CSV:
+07-20-2020 21:30   : gb_logs/logging_test.log
+07-20-2020 21:30   : 
+07-20-2020 21:30   : sent 1.07K bytes  received 7.12K bytes  1.82K bytes/sec
+07-20-2020 21:30   : total size is 1.89M  speedup is 230.69
+07-20-2020 21:30   : sending incremental file list
+07-20-2020 21:30   : 
+07-20-2020 21:30   : sent 84 bytes  received 16 bytes  28.57 bytes/sec
+07-20-2020 21:30   : total size is 16.27K  speedup is 162.70
