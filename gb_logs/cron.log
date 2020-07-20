@@ -23095,3 +23095,12 @@
 07-20-2020 23:30   : total size is 34.40M  speedup is 32,302.39
 07-20-2020 23:30   : SYNC CSV:
 07-20-2020 23:30   : gb_logs/cron.log
+07-20-2020 23:30   : 
+07-20-2020 23:30   : sent 1.07K bytes  received 7.09K bytes  1.25K bytes/sec
+07-20-2020 23:30   : total size is 1.90M  speedup is 232.94
+07-20-2020 23:30   : sending incremental file list
+07-20-2020 23:30   : 
+07-20-2020 23:30   : sent 84 bytes  received 16 bytes  22.22 bytes/sec
+07-20-2020 23:30   : total size is 16.41K  speedup is 164.10
+07-20-2020 23:30   : CurrentState(local_ip='192.168.42.54', vpn_ip='10.8.0.6', voc=0.8, co2=413.1, humidity=67.33333333333333, temperature=22.0, water_temperature=20.94, ph=6.57, ec=16.49, datetime='2020-07-20_23:30')
+07-20-2020 23:40   : SYNC current data:
