@@ -31,3 +31,6 @@ WARNING:And this, too
 20-07-2020 08:43:23 > DEBUG: This message should go to the log file
 20-07-2020 08:43:23 > INFO: So should this
 20-07-2020 08:43:23 > WARNING: And this, too
+20-07-2020 21:15:05 :: DEBUG: This message should go to the log file
+20-07-2020 21:15:05 :: INFO: So should this
+20-07-2020 21:15:05 :: WARNING: And this, too
