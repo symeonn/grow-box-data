@@ -1334,3 +1334,5 @@
 07-20-2020 18:02   : Temperature: 22.0 *C - FAN off
 07-20-2020 18:07   : Temperature: 23.3333333333 *C - FAN on
 07-20-2020 18:45   : float() argument must be a string or a number
+07-20-2020 19:45   : float() argument must be a string or a number
+07-20-2020 19:46   : float() argument must be a string or a number
