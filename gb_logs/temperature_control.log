@@ -1339,3 +1339,5 @@
 07-20-2020 20:18   : Temperature: 21.3333333333 *C - FAN off
 07-20-2020 20:30   : Temperature: 22.6666666667 *C - FAN on
 07-20-2020 20:41   : Temperature: 21.0 *C - FAN off
+20-07-2020 21:31:48 :: INFO: Init temperature control
+20-07-2020 21:35:23 :: INFO: Init temperature control
