@@ -22606,3 +22606,10 @@
 07-20-2020 16:15   : sent 84 bytes  received 16 bytes  13.33 bytes/sec
 07-20-2020 16:15   : total size is 15.99K  speedup is 159.88
 07-20-2020 16:20   : SYNC current data:
+07-20-2020 16:20   : CurrentState(local_ip='192.168.42.113', vpn_ip='10.8.0.10', voc=1.1, co2=409.8, humidity=71.0, temperature=22.0, water_temperature=21.0, ph=5.9, ec=1.01, datetime='2020-07-20_16:20')
+07-20-2020 16:23   : VPN not connected. Connecting...
+07-20-2020 16:24   : Current IP: 
+07-20-2020 16:30   : SYNC current data:
+07-20-2020 16:30   : SYNC images:
+07-20-2020 16:30   : SYNC logs:
+07-20-2020 16:30   : SYNC CSV:
