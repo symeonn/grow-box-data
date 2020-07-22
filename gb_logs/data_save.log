@@ -1493,3 +1493,8 @@
 07-22-2020 11:25   : humidity Not a float
 07-22-2020 11:25   : temperature Not a float
 07-22-2020 11:25   : Humidity: 39.6666666667 :: Temperature: 14.0 
+07-22-2020 14:42   : init data save
+07-22-2020 14:42   : Getting sensors readings...
+07-22-2020 14:42   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
+07-22-2020 14:42   : VOC: 0.0 :: CO2: 408.6 
+07-22-2020 14:43   : Humidity: 58.0 :: Temperature: 21.0 
