@@ -738,3 +738,6 @@
 07-22-2020 14:49   : T: 20.37 :: pH: 7.01 :: EC: -1.00 
 07-22-2020 14:49   : Writing pH value: 7.01
 07-22-2020 14:49   : Waiting for meters readings...
+07-22-2020 14:51   : T: 20.37 :: pH: -1.00 :: EC: 0.96 
+07-22-2020 14:51   : Writing EC value: 0.96
+07-22-2020 14:52   : Waiting for meters readings...
