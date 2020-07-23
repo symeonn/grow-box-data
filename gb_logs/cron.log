@@ -24080,3 +24080,26 @@
 07-23-2020 14:30   : SYNC logs:
 07-23-2020 14:30   : SYNC current data:
 07-23-2020 14:30   : SYNC images:
+07-23-2020 14:30   : sending incremental file list
+07-23-2020 14:30   : gb_cam_images/2020-07-22_1537.jpg
+07-23-2020 14:30   : sending incremental file list
+07-23-2020 14:30   : gb_logs/air_pump_control.log
+07-23-2020 14:30   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=5.0, co2=407.5, humidity=49.333333333333336, temperature=26.0, water_temperature=20.69, ph=6.52, ec=0.96, datetime='2020-07-23_14:30')
+07-23-2020 14:32   : 
+07-23-2020 14:32   : sent 773.36K bytes  received 39 bytes  6.11K bytes/sec
+07-23-2020 14:32   : total size is 36.00M  speedup is 46.55
+07-23-2020 14:32   : SYNC CSV:
+07-23-2020 14:32   : sending incremental file list
+07-23-2020 14:32   : gb_csv/grow_data.csv
+07-23-2020 14:32   : 
+07-23-2020 14:32   : sent 296 bytes  received 185 bytes  74.00 bytes/sec
+07-23-2020 14:32   : total size is 17.39K  speedup is 36.15
+07-23-2020 14:32   : gb_logs/cron.log
+07-23-2020 14:32   : gb_logs/data_save.log
+07-23-2020 14:32   : gb_logs/image_capture.log
+07-23-2020 14:32   : gb_logs/meters_data_save.log
+07-23-2020 14:32   : gb_logs/temperature_control.log
+07-23-2020 14:32   : 
+07-23-2020 14:32   : sent 5.91K bytes  received 9.69K bytes  98.39 bytes/sec
+07-23-2020 14:32   : total size is 2.01M  speedup is 128.83
+07-23-2020 14:40   : SYNC current data:
