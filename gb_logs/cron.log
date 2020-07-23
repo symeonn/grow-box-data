@@ -24176,3 +24176,19 @@
 07-23-2020 15:30   : sending incremental file list
 07-23-2020 15:30   : sending incremental file list
 07-23-2020 15:30   : gb_cam_images/2020-07-23_1520.jpg
+07-23-2020 15:30   : gb_logs/cron.log
+07-23-2020 15:30   : gb_logs/image_capture.log
+07-23-2020 15:30   : gb_logs/temperature_control.log
+07-23-2020 15:30   : 
+07-23-2020 15:30   : sent 1.33K bytes  received 8.14K bytes  332.42 bytes/sec
+07-23-2020 15:30   : total size is 2.02M  speedup is 212.76
+07-23-2020 15:33   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=1.1, co2=407.5, humidity=54.666666666666664, temperature=20.0, water_temperature=18.56, ph=6.67, ec=0.42, datetime='2020-07-23_15:30')
+07-23-2020 15:33   : 
+07-23-2020 15:33   : sent 757.36K bytes  received 39 bytes  3.39K bytes/sec
+07-23-2020 15:33   : total size is 36.76M  speedup is 48.53
+07-23-2020 15:33   : SYNC CSV:
+07-23-2020 15:33   : sending incremental file list
+07-23-2020 15:33   : 
+07-23-2020 15:33   : sent 84 bytes  received 16 bytes  22.22 bytes/sec
+07-23-2020 15:33   : total size is 17.39K  speedup is 173.90
+07-23-2020 15:40   : SYNC current data:
