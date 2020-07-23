@@ -24299,3 +24299,7 @@
 07-23-2020 16:45   : sent 84 bytes  received 16 bytes  22.22 bytes/sec
 07-23-2020 16:45   : total size is 17.45K  speedup is 174.47
 07-23-2020 16:50   : SYNC current data:
+07-23-2020 16:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.3, co2=419.4, humidity=54.0, temperature=21.0, water_temperature=19.0, ph=6.67, ec=0.42, datetime='2020-07-23_16:50')
+07-23-2020 17:00   : SYNC current data:
+07-23-2020 17:00   : SYNC images:
+07-23-2020 17:00   : SYNC logs:
