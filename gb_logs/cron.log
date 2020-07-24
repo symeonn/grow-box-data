@@ -24498,3 +24498,8 @@
 07-23-2020 23:45   : SYNC images:
 07-23-2020 23:45   : SYNC CSV:
 07-23-2020 23:50   : SYNC current data:
+07-23-2020 23:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='', voc=0.7, co2=407.8, humidity=50.0, temperature=22.0, water_temperature=19.69, ph=6.36, ec=0.42, datetime='2020-07-23_23:50')
+07-24-2020 01:05   : Daily restart...
+07-24-2020 01:07   : VPN not connected. Connecting...
+07-24-2020 01:08   : Current IP: 
+07-24-2020 07:00   : SYNC current data:

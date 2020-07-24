@@ -1637,3 +1637,12 @@
 23-07-2020 17:38:48 :: INFO: Temperature: 21.6666666667 *C - FAN on
 23-07-2020 17:50:12 :: INFO: Temperature: 21.0 *C - FAN off
 23-07-2020 17:55:40 :: INFO: Temperature: 23.0 *C - FAN on
+24-07-2020 01:08:10 :: INFO: Init temperature control
+24-07-2020 02:14:41 :: INFO: Temperature: 14.6666666667 *C - FAN off
+24-07-2020 02:20:14 :: INFO: Temperature: 24.0 *C - FAN on
+24-07-2020 03:54:52 :: INFO: Temperature: 14.6666666667 *C - FAN off
+24-07-2020 04:00:04 :: INFO: Temperature: 24.0 *C - FAN on
+24-07-2020 05:28:13 :: INFO: Temperature: 14.6666666667 *C - FAN off
+24-07-2020 05:33:36 :: INFO: Temperature: 24.0 *C - FAN on
+24-07-2020 05:51:15 :: INFO: Temperature: 14.6666666667 *C - FAN off
+24-07-2020 05:56:36 :: INFO: Temperature: 24.0 *C - FAN on
