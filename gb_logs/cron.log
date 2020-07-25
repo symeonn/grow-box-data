@@ -25243,3 +25243,8 @@
 07-25-2020 21:00   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.6, co2=410.6, humidity=64.33333333333333, temperature=22.0, water_temperature=20.12, ph=6.53, ec=0.75, datetime='2020-07-25_21:00')
 07-25-2020 21:00   : SYNC CSV:
 07-25-2020 21:10   : SYNC current data:
+07-25-2020 21:10   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.6, co2=410.6, humidity=64.33333333333333, temperature=22.0, water_temperature=20.12, ph=6.53, ec=0.75, datetime='2020-07-25_21:10')
+07-25-2020 21:15   : SYNC images:
+07-25-2020 21:15   : SYNC logs:
+07-25-2020 21:15   : SYNC CSV:
+07-25-2020 21:20   : SYNC current data:
