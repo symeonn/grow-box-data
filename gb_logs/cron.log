@@ -26026,3 +26026,19 @@
 07-26-2020 16:00   : gb_logs/air_pump_control.log
 07-26-2020 16:00   : sending incremental file list
 07-26-2020 16:00   : gb_cam_images/2020-07-26_1548.jpg
+07-26-2020 16:00   : gb_logs/cron.log
+07-26-2020 16:00   : gb_logs/data_save.log
+07-26-2020 16:00   : gb_logs/image_capture.log
+07-26-2020 16:00   : 
+07-26-2020 16:00   : sent 1.35K bytes  received 9.33K bytes  418.71 bytes/sec
+07-26-2020 16:00   : total size is 2.18M  speedup is 204.58
+07-26-2020 16:00   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.3, co2=413.5, humidity=65.0, temperature=21.0, water_temperature=20.31, ph=6.48, ec=0.75, datetime='2020-07-26_16:00')
+07-26-2020 16:04   : 
+07-26-2020 16:04   : sent 977.70K bytes  received 39 bytes  3.42K bytes/sec
+07-26-2020 16:04   : total size is 39.07M  speedup is 39.96
+07-26-2020 16:04   : SYNC CSV:
+07-26-2020 16:04   : sending incremental file list
+07-26-2020 16:04   : 
+07-26-2020 16:04   : sent 88 bytes  received 16 bytes  29.71 bytes/sec
+07-26-2020 16:04   : total size is 18.98K  speedup is 182.47
+07-26-2020 16:10   : SYNC current data:
