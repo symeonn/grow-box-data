@@ -25439,3 +25439,7 @@
 07-26-2020 08:40   : SYNC current data:
 07-26-2020 08:40   : CurrentState(local_ip='192.168.42.58', vpn_ip='', voc=0.2, co2=411.8, humidity=61.0, temperature=22.0, water_temperature=0.0, ph=6.53, ec=0.75, datetime='2020-07-26_08:40')
 07-26-2020 08:50   : SYNC current data:
+07-26-2020 08:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='', voc=0.2, co2=411.8, humidity=61.0, temperature=22.0, water_temperature=0.0, ph=6.53, ec=0.75, datetime='2020-07-26_08:50')
+07-26-2020 09:00   : SYNC current data:
+07-26-2020 09:00   : SYNC logs:
+07-26-2020 09:00   : SYNC images:
