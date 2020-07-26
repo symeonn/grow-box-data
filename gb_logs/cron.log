@@ -25606,3 +25606,13 @@
 07-26-2020 11:00   : total size is 38.10M  speedup is 32,341.09
 07-26-2020 11:00   : SYNC CSV:
 07-26-2020 11:00   : gb_logs/cron.log
+07-26-2020 11:00   : gb_logs/temperature_control.log
+07-26-2020 11:00   : 
+07-26-2020 11:00   : sent 1.22K bytes  received 8.47K bytes  1.29K bytes/sec
+07-26-2020 11:00   : total size is 2.15M  speedup is 222.58
+07-26-2020 11:00   : sending incremental file list
+07-26-2020 11:00   : 
+07-26-2020 11:00   : sent 88 bytes  received 16 bytes  29.71 bytes/sec
+07-26-2020 11:00   : total size is 18.78K  speedup is 180.56
+07-26-2020 11:00   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.2, co2=411.7, humidity=65.0, temperature=21.0, water_temperature=20.44, ph=6.53, ec=0.75, datetime='2020-07-26_11:00')
+07-26-2020 11:10   : SYNC current data:
