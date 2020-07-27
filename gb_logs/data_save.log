@@ -1775,3 +1775,10 @@
 07-27-2020 11:23   : SGP30 SERIAL: [0, 0, 129, 1, 21, 195, 53, 41, 74]
 07-27-2020 11:24   : VOC: 0.7 :: CO2: 411.0 
 07-27-2020 11:24   : Humidity: 70.0 :: Temperature: 21.0 
+27-07-2020 11:48:07 :: INFO: Init data save
+27-07-2020 11:48:07 :: INFO: Getting sensors readings...
+27-07-2020 11:49:15 :: INFO: VOC: 0.2 :: CO2: 408.6 
+27-07-2020 11:49:36 :: INFO: Humidity: 71.3333333333 :: Temperature: 23.0 
+27-07-2020 11:49:46 :: INFO: Water temperature: 20.69 
+27-07-2020 11:49:46 :: INFO: Writing data to CSV...
+27-07-2020 11:49:46 :: INFO: Data saving done.
