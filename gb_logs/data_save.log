@@ -1801,3 +1801,7 @@
 27-07-2020 14:15:32 :: INFO: Getting sensors readings...
 27-07-2020 14:15:57 :: INFO: VOC: 3.6 :: CO2: 411.9 
 27-07-2020 14:16:15 :: INFO: Humidity: 67.6666666667 :: Temperature: 21.0 
+27-07-2020 14:35:19 :: INFO: Init data save
+27-07-2020 14:35:19 :: INFO: Getting sensors readings...
+27-07-2020 14:35:51 :: INFO: VOC: 0.4 :: CO2: 410.1 
+27-07-2020 14:36:23 :: INFO: Humidity: 72.3333333333 :: Temperature: 21.0 
