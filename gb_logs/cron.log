@@ -26614,3 +26614,10 @@
 07-27-2020 11:45   : SYNC images:
 07-27-2020 11:45   : SYNC CSV:
 07-27-2020 11:50   : SYNC current data:
+07-27-2020 11:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.14', voc=0.2, co2=408.6, humidity=71.33333333333333, temperature=23.0, water_temperature=20.69, ph=6.63, ec=0.82, datetime='2020-07-27_11:50')
+07-27-2020 11:58   : VPN not connected. Connecting...
+07-27-2020 11:59   : Current IP: 
+07-27-2020 12:00   : SYNC logs:
+07-27-2020 12:00   : SYNC current data:
+07-27-2020 12:00   : SYNC images:
+07-27-2020 12:00   : SYNC CSV:
