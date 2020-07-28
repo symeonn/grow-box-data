@@ -26930,3 +26930,7 @@
 07-28-2020 08:40   : SYNC current data:
 07-28-2020 08:40   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=9.9, co2=410.3, humidity=68.33333333333333, temperature=23.0, water_temperature=20.75, ph=6.78, ec=0.76, datetime='2020-07-28_08:40')
 07-28-2020 08:50   : SYNC current data:
+07-28-2020 08:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=9.9, co2=410.3, humidity=68.33333333333333, temperature=23.0, water_temperature=20.75, ph=6.78, ec=0.76, datetime='2020-07-28_08:50')
+07-28-2020 09:00   : SYNC current data:
+07-28-2020 09:00   : SYNC logs:
+07-28-2020 09:00   : SYNC images:
