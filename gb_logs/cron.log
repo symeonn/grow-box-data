@@ -782,3 +782,6 @@
 07-29-2020 19:30   : SYNC images:
 07-29-2020 19:30   : SYNC current data:
 07-29-2020 19:30   : SYNC logs:
+07-29-2020 19:30   : SYNC CSV:
+07-29-2020 19:36   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.4, co2=413.6, humidity=62.333333333333336, temperature=21.0, water_temperature=20.62, ph=7.4, ec=0.79, datetime='2020-07-29_19:30')
+07-29-2020 19:40   : SYNC current data:
