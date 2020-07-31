@@ -58,3 +58,6 @@
 31-07-2020 17:31:54 :: ERROR: Error in: meters_data_save.py
 31-07-2020 17:31:54 :: ERROR: [Errno 5] Input/output error
 31-07-2020 17:31:54 :: INFO: Waiting for meters readings...
+31-07-2020 18:16:52 :: ERROR: Error in: meters_data_save.py
+31-07-2020 18:16:52 :: ERROR: [Errno 5] Input/output error
+31-07-2020 18:16:52 :: INFO: Waiting for meters readings...
