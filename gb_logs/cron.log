@@ -4023,3 +4023,21 @@
 08-01-2020 18:00   : total size is 22.01K  speedup is 220.12
 08-01-2020 18:00   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.0, co2=413.0, humidity=66.33333333333333, temperature=22.0, water_temperature=20.44, ph=6.92, ec=0.73, datetime='2020-08-01_18:00')
 08-01-2020 18:10   : SYNC current data:
+08-01-2020 18:10   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.0, co2=413.0, humidity=66.33333333333333, temperature=22.0, water_temperature=20.44, ph=6.92, ec=0.73, datetime='2020-08-01_18:10')
+08-01-2020 18:15   : SYNC images:
+08-01-2020 18:15   : SYNC logs:
+08-01-2020 18:15   : sending incremental file list
+08-01-2020 18:15   : sending incremental file list
+08-01-2020 18:15   : gb_logs/cron.log
+08-01-2020 18:15   : 
+08-01-2020 18:15   : sent 1.31K bytes  received 16 bytes  293.78 bytes/sec
+08-01-2020 18:15   : total size is 43.36M  speedup is 32,800.36
+08-01-2020 18:15   : SYNC CSV:
+08-01-2020 18:15   : 
+08-01-2020 18:15   : sent 1.25K bytes  received 2.22K bytes  769.33 bytes/sec
+08-01-2020 18:15   : total size is 716.17K  speedup is 206.86
+08-01-2020 18:15   : sending incremental file list
+08-01-2020 18:15   : 
+08-01-2020 18:15   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+08-01-2020 18:15   : total size is 22.01K  speedup is 220.12
+08-01-2020 18:20   : SYNC current data:
