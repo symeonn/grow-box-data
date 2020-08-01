@@ -3341,3 +3341,21 @@
 08-01-2020 09:45   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 08-01-2020 09:45   : total size is 21.68K  speedup is 216.78
 08-01-2020 09:50   : SYNC current data:
+08-01-2020 09:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=5.8, co2=411.0, humidity=65.0, temperature=22.0, water_temperature=20.56, ph=4.96, ec=0.71, datetime='2020-08-01_09:50')
+08-01-2020 10:00   : SYNC current data:
+08-01-2020 10:00   : SYNC logs:
+08-01-2020 10:00   : SYNC images:
+08-01-2020 10:00   : sending incremental file list
+08-01-2020 10:00   : sending incremental file list
+08-01-2020 10:00   : gb_logs/cron.log
+08-01-2020 10:00   : 
+08-01-2020 10:00   : 
+08-01-2020 10:00   : sent 1.28K bytes  received 16 bytes  519.60 bytes/sec
+08-01-2020 10:00   : sent 1.24K bytes  received 1.89K bytes  1.25K bytes/sec
+08-01-2020 10:00   : total size is 669.92K  speedup is 214.10
+08-01-2020 10:00   : total size is 42.79M  speedup is 32,939.07
+08-01-2020 10:00   : SYNC CSV:
+08-01-2020 10:00   : sending incremental file list
+08-01-2020 10:00   : 
+08-01-2020 10:00   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+08-01-2020 10:00   : total size is 21.68K  speedup is 216.78
