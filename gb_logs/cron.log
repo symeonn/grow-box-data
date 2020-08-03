@@ -6252,3 +6252,26 @@
 08-03-2020 17:00   : total size is 22.83K  speedup is 219.56
 08-03-2020 17:00   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=4.3, co2=406.5, humidity=72.33333333333333, temperature=22.333333333333332, water_temperature=19.94, ph=6.93, ec=0.73, datetime='2020-08-03_17:00')
 08-03-2020 17:10   : SYNC current data:
+08-03-2020 17:10   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.0, co2=409.6, humidity=73.0, temperature=21.0, water_temperature=20.0, ph=6.93, ec=0.73, datetime='2020-08-03_17:10')
+08-03-2020 17:15   : SYNC images:
+08-03-2020 17:15   : SYNC logs:
+08-03-2020 17:15   : sending incremental file list
+08-03-2020 17:15   : sending incremental file list
+08-03-2020 17:15   : gb_logs/air_pump_control.log
+08-03-2020 17:15   : 
+08-03-2020 17:15   : gb_logs/cron.log
+08-03-2020 17:15   : sent 1.38K bytes  received 16 bytes  560.00 bytes/sec
+08-03-2020 17:15   : total size is 46.36M  speedup is 33,115.95
+08-03-2020 17:15   : gb_logs/data_save.log
+08-03-2020 17:15   : SYNC CSV:
+08-03-2020 17:15   : gb_logs/meters_data_save.log
+08-03-2020 17:15   : gb_logs/temperature_control.log
+08-03-2020 17:15   : 
+08-03-2020 17:15   : sent 1.72K bytes  received 4.01K bytes  2.29K bytes/sec
+08-03-2020 17:15   : total size is 873.55K  speedup is 152.45
+08-03-2020 17:15   : sending incremental file list
+08-03-2020 17:15   : gb_csv/grow_data.csv
+08-03-2020 17:15   : 
+08-03-2020 17:15   : sent 268 bytes  received 233 bytes  200.40 bytes/sec
+08-03-2020 17:15   : total size is 22.89K  speedup is 45.69
+08-03-2020 17:20   : SYNC current data:
