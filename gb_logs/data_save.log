@@ -348,3 +348,6 @@
 03-08-2020 16:57:19 :: INFO: Getting sensors readings...
 03-08-2020 16:58:26 :: INFO: VOC: 0.0 :: CO2: 409.6 
 03-08-2020 16:58:41 :: INFO: Humidity: 73.0 :: Temperature: 21.0 
+03-08-2020 17:02:21 :: INFO: Water temperature: 20.00 
+03-08-2020 17:02:21 :: INFO: Writing data to CSV...
+03-08-2020 17:02:21 :: INFO: Data saving done.
