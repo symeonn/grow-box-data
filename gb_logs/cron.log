@@ -7913,3 +7913,8 @@
 08-04-2020 22:30   : total size is 979.93K  speedup is 167.34
 08-04-2020 22:30   : sending incremental file list
 08-04-2020 22:30   : gb_csv/grow_data.csv
+08-04-2020 22:30   : 
+08-04-2020 22:30   : sent 170 bytes  received 239 bytes  163.60 bytes/sec
+08-04-2020 22:30   : total size is 23.27K  speedup is 56.90
+08-04-2020 22:30   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=7.5, co2=406.5, humidity=58.666666666666664, temperature=22.0, water_temperature=20.56, ph=7.04, ec=0.73, datetime='2020-08-04_22:30')
+08-04-2020 22:40   : SYNC current data:
