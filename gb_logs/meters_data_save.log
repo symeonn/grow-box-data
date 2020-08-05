@@ -149,3 +149,6 @@
 05-08-2020 20:59:02 :: ERROR: Error in: meters_data_save.py
 05-08-2020 20:59:02 :: ERROR: invalid literal for float(): -1.020.50
 05-08-2020 20:59:02 :: INFO: Waiting for meters readings...
+05-08-2020 21:17:03 :: INFO: T: 20.56 :: pH: 6.96 :: EC: -1.00 
+05-08-2020 21:17:03 :: INFO: Writing pH value: 6.96
+05-08-2020 21:17:33 :: INFO: Waiting for meters readings...
