@@ -12771,3 +12771,22 @@
 08-08-2020 20:45   : sent 197 bytes  received 257 bytes  181.60 bytes/sec
 08-08-2020 20:45   : total size is 25.44K  speedup is 56.04
 08-08-2020 20:50   : SYNC current data:
+08-08-2020 20:50   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=3.1, co2=405.9, humidity=66.0, temperature=23.0, water_temperature=20.94, ph=7.04, ec=0.73, datetime='2020-08-08_20:50')
+08-08-2020 21:00   : SYNC current data:
+08-08-2020 21:00   : SYNC logs:
+08-08-2020 21:00   : SYNC images:
+08-08-2020 21:00   : sending incremental file list
+08-08-2020 21:00   : sending incremental file list
+08-08-2020 21:00   : gb_logs/air_pump_control.log
+08-08-2020 21:00   : gb_logs/cron.log
+08-08-2020 21:00   : 
+08-08-2020 21:00   : sent 1.50K bytes  received 16 bytes  337.11 bytes/sec
+08-08-2020 21:00   : total size is 50.20M  speedup is 33,092.65
+08-08-2020 21:00   : SYNC CSV:
+08-08-2020 21:00   : 
+08-08-2020 21:00   : sent 1.39K bytes  received 5.71K bytes  1.58K bytes/sec
+08-08-2020 21:00   : total size is 1.31M  speedup is 185.15
+08-08-2020 21:00   : sending incremental file list
+08-08-2020 21:00   : 
+08-08-2020 21:00   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+08-08-2020 21:00   : total size is 25.44K  speedup is 254.41
