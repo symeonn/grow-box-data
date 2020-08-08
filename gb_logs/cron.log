@@ -12425,3 +12425,5 @@
 08-08-2020 16:30   : 
 08-08-2020 16:30   : sent 88 bytes  received 16 bytes  29.71 bytes/sec
 08-08-2020 16:30   : total size is 25.26K  speedup is 242.86
+08-08-2020 16:30   : CurrentState(local_ip='192.168.42.58', vpn_ip='10.8.0.6', voc=0.5, co2=407.8, humidity=70.66666666666667, temperature=22.0, water_temperature=20.87, ph=7.07, ec=0.73, datetime='2020-08-08_16:30')
+08-08-2020 16:40   : SYNC current data:
