@@ -15548,3 +15548,8 @@
 08-11-2020 15:30   : SYNC CSV:
 08-11-2020 15:30   : CurrentState(local_ip='192.168.42.58', vpn_ip='', voc=2.4, co2=403.8, humidity=71.66666666666667, temperature=22.0, water_temperature=21.5, ph=6.84, ec=0.21, datetime='2020-08-11_15:30')
 08-11-2020 15:40   : SYNC current data:
+08-11-2020 15:40   : CurrentState(local_ip='192.168.42.58', vpn_ip='', voc=2.4, co2=403.8, humidity=71.66666666666667, temperature=22.0, water_temperature=21.5, ph=6.84, ec=0.21, datetime='2020-08-11_15:40')
+08-11-2020 15:45   : SYNC images:
+08-11-2020 15:45   : SYNC logs:
+08-11-2020 15:45   : SYNC CSV:
+08-11-2020 15:50   : SYNC current data:
