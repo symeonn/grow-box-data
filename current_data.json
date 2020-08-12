@@ -1,1 +1,1 @@
-{"local_ip": "192.168.42.58", "vpn_ip": "", "voc": 3.7, "co2": 409.3, "humidity": 67.0, "temperature": 22.0, "water_temperature": 21.37, "ph": 7.29, "ec": 0.79, "datetime": "2020-08-12_21:40"}
+{"local_ip": "192.168.42.58", "vpn_ip": "", "voc": 1.0, "co2": 409.6, "humidity": 61.666666666666664, "temperature": 23.0, "water_temperature": 21.44, "ph": 7.29, "ec": 0.79, "datetime": "2020-08-12_21:50"}
