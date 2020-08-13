@@ -295,3 +295,6 @@
 12-08-2020 20:49:35 :: ERROR: Error in: meters_data_save.py
 12-08-2020 20:49:35 :: ERROR: list index out of range
 12-08-2020 20:49:35 :: INFO: Waiting for meters readings...
+13-08-2020 07:53:32 :: INFO: T: 21.31 :: pH: 6.76 :: EC: -1.00 
+13-08-2020 07:53:32 :: INFO: Writing pH value: 6.76
+13-08-2020 07:54:02 :: INFO: Waiting for meters readings...
