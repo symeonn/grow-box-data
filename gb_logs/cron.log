@@ -17614,3 +17614,8 @@
 08-16-2020 20:30   : SYNC CSV:
 08-16-2020 20:30   : CurrentState(local_ip='192.168.42.146', vpn_ip='', voc=4.2, co2=404.7, humidity=62.0, temperature=24.0, water_temperature=0.0, ph=6.72, ec=0.7, datetime='2020-08-16_20:30')
 08-16-2020 20:40   : SYNC current data:
+08-16-2020 20:40   : CurrentState(local_ip='192.168.42.146', vpn_ip='', voc=4.2, co2=404.7, humidity=62.0, temperature=24.0, water_temperature=0.0, ph=6.72, ec=0.7, datetime='2020-08-16_20:40')
+08-16-2020 20:45   : SYNC logs:
+08-16-2020 20:45   : SYNC images:
+08-16-2020 20:45   : SYNC CSV:
+08-16-2020 20:50   : SYNC current data:
