@@ -17806,3 +17806,18 @@
 08-17-2020 13:00   : 
 08-17-2020 13:00   : sent 16.78K bytes  received 7.24K bytes  2.83K bytes/sec
 08-17-2020 13:00   : total size is 1.74M  speedup is 72.56
+08-17-2020 13:00   : gb_cam_images/2020-08-13_1544.jpg
+08-17-2020 13:00   : gb_cam_images/2020-08-14_1535.jpg
+08-17-2020 13:00   : gb_cam_images/2020-08-15_1526.jpg
+08-17-2020 13:00   : gb_cam_images/2020-08-16_1524.jpg
+08-17-2020 13:01   : 
+08-17-2020 13:01   : sent 5.48M bytes  received 134 bytes  59.93K bytes/sec
+08-17-2020 13:01   : total size is 57.91M  speedup is 10.56
+08-17-2020 13:01   : SYNC CSV:
+08-17-2020 13:01   : sending incremental file list
+08-17-2020 13:01   : gb_csv/grow_data.csv
+08-17-2020 13:01   : 
+08-17-2020 13:01   : sent 851 bytes  received 269 bytes  320.00 bytes/sec
+08-17-2020 13:01   : total size is 29.73K  speedup is 26.55
+08-17-2020 13:01   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.6, co2=409.6, humidity=43.333333333333336, temperature=14.666666666666666, water_temperature=21.69, ph=6.74, ec=0.7, datetime='2020-08-17_13:00')
+08-17-2020 13:10   : SYNC current data:
