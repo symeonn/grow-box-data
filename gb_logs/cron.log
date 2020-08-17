@@ -18304,3 +18304,10 @@
 08-17-2020 19:00   : 
 08-17-2020 19:00   : sent 1.57K bytes  received 7.94K bytes  1.73K bytes/sec
 08-17-2020 19:00   : total size is 1.77M  speedup is 186.55
+08-17-2020 19:00   : sending incremental file list
+08-17-2020 19:00   : gb_csv/grow_data.csv
+08-17-2020 19:00   : 
+08-17-2020 19:00   : sent 286 bytes  received 293 bytes  165.43 bytes/sec
+08-17-2020 19:00   : total size is 29.99K  speedup is 51.79
+08-17-2020 19:00   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.4, co2=409.5, humidity=64.0, temperature=23.0, water_temperature=21.62, ph=6.72, ec=0.7, datetime='2020-08-17_19:00')
+08-17-2020 19:10   : SYNC current data:
