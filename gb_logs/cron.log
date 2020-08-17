@@ -17789,3 +17789,20 @@
 08-17-2020 12:45   : SYNC images:
 08-17-2020 12:45   : SYNC CSV:
 08-17-2020 12:50   : SYNC current data:
+08-17-2020 12:54   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.6, co2=409.6, humidity=43.333333333333336, temperature=14.666666666666666, water_temperature=21.69, ph=6.74, ec=0.7, datetime='2020-08-17_12:50')
+08-17-2020 13:00   : SYNC images:
+08-17-2020 13:00   : SYNC logs:
+08-17-2020 13:00   : SYNC current data:
+08-17-2020 13:00   : sending incremental file list
+08-17-2020 13:00   : sending incremental file list
+08-17-2020 13:00   : gb_logs/air_pump_control.log
+08-17-2020 13:00   : gb_logs/cron.log
+08-17-2020 13:00   : gb_cam_images/2020-08-11_1508.jpg
+08-17-2020 13:00   : gb_logs/data_save.log
+08-17-2020 13:00   : gb_logs/image_capture.log
+08-17-2020 13:00   : gb_logs/meters_data_save.log
+08-17-2020 13:00   : gb_logs/temperature_control.log
+08-17-2020 13:00   : gb_cam_images/2020-08-12_1553.jpg
+08-17-2020 13:00   : 
+08-17-2020 13:00   : sent 16.78K bytes  received 7.24K bytes  2.83K bytes/sec
+08-17-2020 13:00   : total size is 1.74M  speedup is 72.56
