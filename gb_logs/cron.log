@@ -19890,3 +19890,5 @@
 08-19-2020 07:50   : SYNC current data:
 08-19-2020 07:50   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.6, co2=415.7, humidity=58.666666666666664, temperature=24.0, water_temperature=22.0, ph=6.07, ec=1.15, datetime='2020-08-19_07:50')
 08-19-2020 08:00   : SYNC current data:
+08-19-2020 08:00   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.6, co2=415.7, humidity=58.666666666666664, temperature=24.0, water_temperature=22.0, ph=6.07, ec=1.15, datetime='2020-08-19_08:00')
+08-19-2020 08:10   : SYNC current data:
