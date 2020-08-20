@@ -21151,3 +21151,19 @@
 08-20-2020 09:15   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
 08-20-2020 09:15   : total size is 31.10K  speedup is 310.99
 08-20-2020 09:20   : SYNC current data:
+08-20-2020 09:20   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.2, co2=410.0, humidity=60.0, temperature=24.0, water_temperature=21.94, ph=6.16, ec=1.15, datetime='2020-08-20_09:20')
+08-20-2020 09:30   : SYNC current data:
+08-20-2020 09:30   : SYNC logs:
+08-20-2020 09:30   : SYNC images:
+08-20-2020 09:30   : sending incremental file list
+08-20-2020 09:30   : sending incremental file list
+08-20-2020 09:30   : gb_logs/air_pump_control.log
+08-20-2020 09:30   : gb_logs/cron.log
+08-20-2020 09:30   : 
+08-20-2020 09:30   : sent 1.78K bytes  received 16 bytes  326.18 bytes/sec
+08-20-2020 09:30   : total size is 60.94M  speedup is 33,966.17
+08-20-2020 09:30   : SYNC CSV:
+08-20-2020 09:30   : 
+08-20-2020 09:30   : sent 1.36K bytes  received 7.66K bytes  1.39K bytes/sec
+08-20-2020 09:30   : total size is 1.97M  speedup is 218.45
+08-20-2020 09:30   : sending incremental file list
