@@ -22484,3 +22484,18 @@
 08-21-2020 10:45   : sent 170 bytes  received 311 bytes  137.43 bytes/sec
 08-21-2020 10:45   : total size is 31.67K  speedup is 65.84
 08-21-2020 10:50   : SYNC current data:
+08-21-2020 10:50   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.10', voc=3.5, co2=407.2, humidity=64.66666666666667, temperature=23.0, water_temperature=22.06, ph=6.28, ec=1.15, datetime='2020-08-21_10:50')
+08-21-2020 11:00   : SYNC logs:
+08-21-2020 11:00   : SYNC images:
+08-21-2020 11:00   : SYNC current data:
+08-21-2020 11:00   : sending incremental file list
+08-21-2020 11:00   : sending incremental file list
+08-21-2020 11:00   : gb_logs/air_pump_control.log
+08-21-2020 11:00   : gb_logs/cron.log
+08-21-2020 11:00   : 
+08-21-2020 11:00   : sent 1.80K bytes  received 16 bytes  330.00 bytes/sec
+08-21-2020 11:00   : total size is 61.69M  speedup is 33,987.33
+08-21-2020 11:00   : SYNC CSV:
+08-21-2020 11:00   : 
+08-21-2020 11:00   : sent 1.37K bytes  received 7.92K bytes  1.43K bytes/sec
+08-21-2020 11:00   : total size is 2.06M  speedup is 221.87
