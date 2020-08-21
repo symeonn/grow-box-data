@@ -23020,3 +23020,10 @@
 08-21-2020 17:15   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
 08-21-2020 17:15   : total size is 31.99K  speedup is 307.61
 08-21-2020 17:20   : SYNC current data:
+08-21-2020 17:20   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.10', voc=0.9, co2=407.9, humidity=67.33333333333333, temperature=23.0, water_temperature=21.94, ph=6.29, ec=1.15, datetime='2020-08-21_17:20')
+08-21-2020 17:30   : SYNC current data:
+08-21-2020 17:30   : SYNC images:
+08-21-2020 17:30   : SYNC logs:
+08-21-2020 17:30   : sending incremental file list
+08-21-2020 17:30   : sending incremental file list
+08-21-2020 17:30   : gb_logs/air_pump_control.log
