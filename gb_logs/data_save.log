@@ -1429,3 +1429,9 @@
 21-08-2020 22:26:15 :: INFO: Water temperature: 22.06 
 21-08-2020 22:26:15 :: INFO: Writing data to CSV...
 21-08-2020 22:26:15 :: INFO: Data saving done.
+22-08-2020 10:26:17 :: INFO: Getting sensors readings...
+22-08-2020 10:26:17 :: ERROR: Error in: data_save.py
+22-08-2020 10:26:17 :: ERROR: [Errno 121] Remote I/O error
+22-08-2020 10:26:17 :: INFO: Getting sensors readings...
+22-08-2020 10:26:45 :: INFO: VOC: 4.8 :: CO2: 406.2 
+22-08-2020 10:27:13 :: INFO: Humidity: 65.0 :: Temperature: 23.0 
