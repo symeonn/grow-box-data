@@ -24315,3 +24315,8 @@
 08-22-2020 18:30   : total size is 2.18M  speedup is 209.66
 08-22-2020 18:30   : sending incremental file list
 08-22-2020 18:30   : gb_csv/grow_data.csv
+08-22-2020 18:30   : 
+08-22-2020 18:30   : sent 247 bytes  received 317 bytes  161.14 bytes/sec
+08-22-2020 18:30   : total size is 32.64K  speedup is 57.88
+08-22-2020 18:30   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.6, co2=406.7, humidity=62.666666666666664, temperature=24.0, water_temperature=22.12, ph=6.39, ec=1.15, datetime='2020-08-22_18:30')
+08-22-2020 18:40   : SYNC current data:
