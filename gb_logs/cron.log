@@ -25966,3 +25966,8 @@
 08-24-2020 10:30   : total size is 33.45K  speedup is 334.55
 08-24-2020 10:30   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.7, co2=420.0, humidity=60.333333333333336, temperature=24.0, water_temperature=22.12, ph=6.46, ec=1.09, datetime='2020-08-24_10:30')
 08-24-2020 10:40   : SYNC current data:
+08-24-2020 10:40   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.7, co2=420.0, humidity=60.333333333333336, temperature=24.0, water_temperature=22.12, ph=6.46, ec=1.09, datetime='2020-08-24_10:40')
+08-24-2020 10:45   : SYNC logs:
+08-24-2020 10:45   : SYNC images:
+08-24-2020 10:45   : SYNC CSV:
+08-24-2020 10:50   : SYNC current data:
