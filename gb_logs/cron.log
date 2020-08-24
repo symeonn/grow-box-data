@@ -26503,3 +26503,22 @@
 08-24-2020 17:15   : sent 88 bytes  received 16 bytes  41.60 bytes/sec
 08-24-2020 17:15   : total size is 33.70K  speedup is 324.01
 08-24-2020 17:20   : SYNC current data:
+08-24-2020 17:20   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=4.8, co2=407.6, humidity=61.0, temperature=23.0, water_temperature=21.94, ph=6.65, ec=1.09, datetime='2020-08-24_17:20')
+08-24-2020 17:30   : SYNC logs:
+08-24-2020 17:30   : SYNC images:
+08-24-2020 17:30   : SYNC current data:
+08-24-2020 17:30   : sending incremental file list
+08-24-2020 17:30   : sending incremental file list
+08-24-2020 17:30   : gb_logs/air_pump_control.log
+08-24-2020 17:30   : gb_logs/cron.log
+08-24-2020 17:30   : 
+08-24-2020 17:30   : sent 1.88K bytes  received 16 bytes  421.56 bytes/sec
+08-24-2020 17:30   : total size is 65.74M  speedup is 34,656.55
+08-24-2020 17:30   : SYNC CSV:
+08-24-2020 17:30   : 
+08-24-2020 17:30   : sent 1.38K bytes  received 8.57K bytes  1.81K bytes/sec
+08-24-2020 17:30   : total size is 2.34M  speedup is 234.77
+08-24-2020 17:30   : sending incremental file list
+08-24-2020 17:30   : 
+08-24-2020 17:30   : sent 84 bytes  received 16 bytes  28.57 bytes/sec
+08-24-2020 17:30   : total size is 33.70K  speedup is 336.97
