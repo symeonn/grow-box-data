@@ -26387,3 +26387,16 @@
 08-24-2020 16:00   : gb_logs/cron.log
 08-24-2020 16:00   : gb_cam_images/2020-08-24_1553.jpg
 08-24-2020 16:00   : gb_logs/image_capture.log
+08-24-2020 16:00   : 
+08-24-2020 16:00   : sent 1.52K bytes  received 8.63K bytes  1.19K bytes/sec
+08-24-2020 16:00   : total size is 2.33M  speedup is 229.32
+08-24-2020 16:00   : 
+08-24-2020 16:00   : sent 926.29K bytes  received 39 bytes  26.85K bytes/sec
+08-24-2020 16:00   : total size is 65.74M  speedup is 70.97
+08-24-2020 16:00   : SYNC CSV:
+08-24-2020 16:00   : sending incremental file list
+08-24-2020 16:00   : 
+08-24-2020 16:00   : sent 84 bytes  received 16 bytes  40.00 bytes/sec
+08-24-2020 16:00   : total size is 33.64K  speedup is 336.40
+08-24-2020 16:00   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.1, co2=418.3, humidity=62.0, temperature=23.0, water_temperature=22.0, ph=6.69, ec=1.09, datetime='2020-08-24_16:00')
+08-24-2020 16:10   : SYNC current data:
