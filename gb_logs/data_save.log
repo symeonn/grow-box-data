@@ -1693,3 +1693,6 @@
 26-08-2020 15:02:49 :: INFO: Water temperature: 21.50 
 26-08-2020 15:02:49 :: INFO: Writing data to CSV...
 26-08-2020 15:02:49 :: INFO: Data saving done.
+26-08-2020 16:02:49 :: INFO: Getting sensors readings...
+26-08-2020 16:03:57 :: INFO: VOC: 1.5 :: CO2: 413.0 
+26-08-2020 16:04:30 :: INFO: Humidity: 64.6666666667 :: Temperature: 22.0 
