@@ -29963,3 +29963,14 @@
 08-27-2020 15:30   : 
 08-27-2020 15:30   : sent 1.59K bytes  received 10.03K bytes  1.55K bytes/sec
 08-27-2020 15:30   : total size is 2.57M  speedup is 221.27
+08-27-2020 15:30   : 
+08-27-2020 15:30   : sent 859.23K bytes  received 39 bytes  32.42K bytes/sec
+08-27-2020 15:30   : total size is 68.41M  speedup is 79.62
+08-27-2020 15:30   : SYNC CSV:
+08-27-2020 15:30   : sending incremental file list
+08-27-2020 15:30   : gb_csv/grow_data.csv
+08-27-2020 15:30   : 
+08-27-2020 15:30   : sent 199 bytes  received 341 bytes  216.00 bytes/sec
+08-27-2020 15:30   : total size is 35.27K  speedup is 65.32
+08-27-2020 15:30   : CurrentState(local_ip='192.168.42.32', vpn_ip='10.8.0.6', voc=0.0, co2=412.0, humidity=66.66666666666667, temperature=22.0, water_temperature=21.44, ph=6.58, ec=1.1, datetime='2020-08-27_15:30')
+08-27-2020 15:40   : SYNC current data:
