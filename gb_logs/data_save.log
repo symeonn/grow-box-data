@@ -1755,3 +1755,7 @@
 27-08-2020 16:29:27 :: ERROR: [Errno 121] Remote I/O error
 27-08-2020 16:29:27 :: INFO: Getting sensors readings...
 27-08-2020 16:29:54 :: INFO: VOC: 4.4 :: CO2: 405.1 
+27-08-2020 16:30:57 :: INFO: Humidity: 44.6666666667 :: Temperature: 15.3333333333 
+27-08-2020 16:34:32 :: INFO: Water temperature: 21.50 
+27-08-2020 16:34:32 :: INFO: Writing data to CSV...
+27-08-2020 16:34:32 :: INFO: Data saving done.
