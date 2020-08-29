@@ -693,3 +693,6 @@
 29-08-2020 16:39:10 :: INFO: T: 21.06 :: pH: 6.76 :: EC: -1.00 
 29-08-2020 16:39:10 :: INFO: Writing pH value: 6.76
 29-08-2020 16:39:40 :: INFO: Waiting for meters readings...
+29-08-2020 21:09:33 :: INFO: T: 21.12 :: pH: 6.74 :: EC: -1.00 
+29-08-2020 21:09:33 :: INFO: Writing pH value: 6.74
+29-08-2020 21:10:03 :: INFO: Waiting for meters readings...
